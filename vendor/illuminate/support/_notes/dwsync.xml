@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AggregateServiceProvider.php" server="E:/wamp/www/upkeep_ftp/" local="132213883847466335" remote="132213883840000000" Dst="0" />
+<file name="Arr.php" server="E:/wamp/www/upkeep_ftp/" local="132213883847656463" remote="132213883840000000" Dst="0" />
+<file name="Carbon.php" server="E:/wamp/www/upkeep_ftp/" local="132213883847746524" remote="132213883840000000" Dst="0" />
+<file name="Collection.php" server="E:/wamp/www/upkeep_ftp/" local="132213883847906631" remote="132213883840000000" Dst="0" />
+<file name="composer.json" server="E:/wamp/www/upkeep_ftp/" local="132213883856102057" remote="132213883850000000" Dst="0" />
+<file name="Composer.php" server="E:/wamp/www/upkeep_ftp/" local="132213883848046724" remote="132213883840000000" Dst="0" />
+<file name="ConfigurationUrlParser.php" server="E:/wamp/www/upkeep_ftp/" local="132213883848186817" remote="132213883840000000" Dst="0" />
+<file name="DateFactory.php" server="E:/wamp/www/upkeep_ftp/" local="132213883848316901" remote="132213883840000000" Dst="0" />
+<file name="Enumerable.php" server="E:/wamp/www/upkeep_ftp/" local="132213883848477007" remote="132213883840000000" Dst="0" />
+<file name="Env.php" server="E:/wamp/www/upkeep_ftp/" local="132213883848637113" remote="132213883840000000" Dst="0" />
+<file name="Fluent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883852549710" remote="132213883850000000" Dst="0" />
+<file name="helpers.php" server="E:/wamp/www/upkeep_ftp/" local="132213883856262174" remote="132213883850000000" Dst="0" />
+<file name="HigherOrderCollectionProxy.php" server="E:/wamp/www/upkeep_ftp/" local="132213883852679787" remote="132213883850000000" Dst="0" />
+<file name="HigherOrderTapProxy.php" server="E:/wamp/www/upkeep_ftp/" local="132213883852789869" remote="132213883850000000" Dst="0" />
+<file name="HtmlString.php" server="E:/wamp/www/upkeep_ftp/" local="132213883852889936" remote="132213883850000000" Dst="0" />
+<file name="InteractsWithTime.php" server="E:/wamp/www/upkeep_ftp/" local="132213883852990002" remote="132213883850000000" Dst="0" />
+<file name="LazyCollection.php" server="E:/wamp/www/upkeep_ftp/" local="132213883853200140" remote="132213883850000000" Dst="0" />
+<file name="LICENSE.md" server="E:/wamp/www/upkeep_ftp/" local="132213883853040037" remote="132213883850000000" Dst="0" />
+<file name="Manager.php" server="E:/wamp/www/upkeep_ftp/" local="132213883853320219" remote="132213883850000000" Dst="0" />
+<file name="MessageBag.php" server="E:/wamp/www/upkeep_ftp/" local="132213883853470321" remote="132213883850000000" Dst="0" />
+<file name="NamespacedItemResolver.php" server="E:/wamp/www/upkeep_ftp/" local="132213883853620418" remote="132213883850000000" Dst="0" />
+<file name="Optional.php" server="E:/wamp/www/upkeep_ftp/" local="132213883853730493" remote="132213883850000000" Dst="0" />
+<file name="Pluralizer.php" server="E:/wamp/www/upkeep_ftp/" local="132213883853840564" remote="132213883850000000" Dst="0" />
+<file name="ProcessUtils.php" server="E:/wamp/www/upkeep_ftp/" local="132213883853980657" remote="132213883850000000" Dst="0" />
+<file name="ServiceProvider.php" server="E:/wamp/www/upkeep_ftp/" local="132213883854190799" remote="132213883850000000" Dst="0" />
+<file name="Str.php" server="E:/wamp/www/upkeep_ftp/" local="132213883854330880" remote="132213883850000000" Dst="0" />
+<file name="ViewErrorBag.php" server="E:/wamp/www/upkeep_ftp/" local="132213883856042025" remote="132213883850000000" Dst="0" />
+</dwsync>

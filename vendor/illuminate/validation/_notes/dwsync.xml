@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClosureValidationRule.php" server="E:/wamp/www/upkeep_ftp/" local="132213883912294190" remote="132213883910000000" Dst="0" />
+<file name="composer.json" server="E:/wamp/www/upkeep_ftp/" local="132213883914855905" remote="132213883910000000" Dst="0" />
+<file name="DatabasePresenceVerifier.php" server="E:/wamp/www/upkeep_ftp/" local="132213883912954644" remote="132213883910000000" Dst="0" />
+<file name="Factory.php" server="E:/wamp/www/upkeep_ftp/" local="132213883912964644" remote="132213883910000000" Dst="0" />
+<file name="LICENSE.md" server="E:/wamp/www/upkeep_ftp/" local="132213883912974630" remote="132213883910000000" Dst="0" />
+<file name="PresenceVerifierInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883913064718" remote="132213883910000000" Dst="0" />
+<file name="Rule.php" server="E:/wamp/www/upkeep_ftp/" local="132213883913174759" remote="132213883910000000" Dst="0" />
+<file name="UnauthorizedException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883914065378" remote="132213883910000000" Dst="0" />
+<file name="ValidatesWhenResolvedTrait.php" server="E:/wamp/www/upkeep_ftp/" local="132213883914205471" remote="132213883910000000" Dst="0" />
+<file name="ValidationData.php" server="E:/wamp/www/upkeep_ftp/" local="132213883914305511" remote="132213883910000000" Dst="0" />
+<file name="ValidationException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883914425617" remote="132213883910000000" Dst="0" />
+<file name="ValidationRuleParser.php" server="E:/wamp/www/upkeep_ftp/" local="132213883914545693" remote="132213883910000000" Dst="0" />
+<file name="ValidationServiceProvider.php" server="E:/wamp/www/upkeep_ftp/" local="132213883914675781" remote="132213883910000000" Dst="0" />
+<file name="Validator.php" server="E:/wamp/www/upkeep_ftp/" local="132213883914805869" remote="132213883910000000" Dst="0" />
+</dwsync>

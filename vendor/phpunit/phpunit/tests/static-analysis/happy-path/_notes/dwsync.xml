@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="assert-empty.php" server="E:/wamp/www/upkeep_ftp/" local="132213884395217101" remote="132213884390000000" Dst="0" />
+<file name="assert-false.php" server="E:/wamp/www/upkeep_ftp/" local="132213884395317168" remote="132213884390000000" Dst="0" />
+<file name="assert-instance-of.php" server="E:/wamp/www/upkeep_ftp/" local="132213884395427212" remote="132213884390000000" Dst="0" />
+<file name="assert-is-array.php" server="E:/wamp/www/upkeep_ftp/" local="132213884395527279" remote="132213884390000000" Dst="0" />
+<file name="assert-is-bool.php" server="E:/wamp/www/upkeep_ftp/" local="132213884395637376" remote="132213884390000000" Dst="0" />
+<file name="assert-is-callable.php" server="E:/wamp/www/upkeep_ftp/" local="132213884395737443" remote="132213884390000000" Dst="0" />
+<file name="assert-is-float.php" server="E:/wamp/www/upkeep_ftp/" local="132213884395847495" remote="132213884390000000" Dst="0" />
+<file name="assert-is-int.php" server="E:/wamp/www/upkeep_ftp/" local="132213884395947557" remote="132213884390000000" Dst="0" />
+<file name="assert-is-iterable.php" server="E:/wamp/www/upkeep_ftp/" local="132213884396047650" remote="132213884390000000" Dst="0" />
+<file name="assert-is-not-array.php" server="E:/wamp/www/upkeep_ftp/" local="132213884396147717" remote="132213884390000000" Dst="0" />
+<file name="assert-is-not-bool.php" server="E:/wamp/www/upkeep_ftp/" local="132213884396257788" remote="132213884390000000" Dst="0" />
+<file name="assert-is-not-callable.php" server="E:/wamp/www/upkeep_ftp/" local="132213884396357858" remote="132213884390000000" Dst="0" />
+<file name="assert-is-not-float.php" server="E:/wamp/www/upkeep_ftp/" local="132213884396457921" remote="132213884390000000" Dst="0" />
+<file name="assert-is-not-int.php" server="E:/wamp/www/upkeep_ftp/" local="132213884396557991" remote="132213884390000000" Dst="0" />
+<file name="assert-is-not-iterable.php" server="E:/wamp/www/upkeep_ftp/" local="132213884396668062" remote="132213884390000000" Dst="0" />
+<file name="assert-is-not-numeric.php" server="E:/wamp/www/upkeep_ftp/" local="132213884396768128" remote="132213884390000000" Dst="0" />
+<file name="assert-is-not-object.php" server="E:/wamp/www/upkeep_ftp/" local="132213884396868195" remote="132213884390000000" Dst="0" />
+<file name="assert-is-not-resource.php" server="E:/wamp/www/upkeep_ftp/" local="132213884396968261" remote="132213884390000000" Dst="0" />
+<file name="assert-is-not-scalar.php" server="E:/wamp/www/upkeep_ftp/" local="132213884397078336" remote="132213884390000000" Dst="0" />
+<file name="assert-is-not-string.php" server="E:/wamp/www/upkeep_ftp/" local="132213884397178402" remote="132213884390000000" Dst="0" />
+<file name="assert-is-numeric.php" server="E:/wamp/www/upkeep_ftp/" local="132213884397278465" remote="132213884390000000" Dst="0" />
+<file name="assert-is-object.php" server="E:/wamp/www/upkeep_ftp/" local="132213884397388540" remote="132213884390000000" Dst="0" />
+<file name="assert-is-resource.php" server="E:/wamp/www/upkeep_ftp/" local="132213884397488606" remote="132213884390000000" Dst="0" />
+<file name="assert-is-scalar.php" server="E:/wamp/www/upkeep_ftp/" local="132213884397598681" remote="132213884390000000" Dst="0" />
+<file name="assert-is-string.php" server="E:/wamp/www/upkeep_ftp/" local="132213884397698721" remote="132213884390000000" Dst="0" />
+<file name="assert-not-empty.php" server="E:/wamp/www/upkeep_ftp/" local="132213884397808792" remote="132213884390000000" Dst="0" />
+<file name="assert-not-false.php" server="E:/wamp/www/upkeep_ftp/" local="132213884397918893" remote="132213884390000000" Dst="0" />
+<file name="assert-not-instance-of.php" server="E:/wamp/www/upkeep_ftp/" local="132213884398018933" remote="132213884390000000" Dst="0" />
+<file name="assert-not-null.php" server="E:/wamp/www/upkeep_ftp/" local="132213884398129016" remote="132213884390000000" Dst="0" />
+<file name="assert-not-true.php" server="E:/wamp/www/upkeep_ftp/" local="132213884398229097" remote="132213884390000000" Dst="0" />
+<file name="assert-null.php" server="E:/wamp/www/upkeep_ftp/" local="132213884398329164" remote="132213884390000000" Dst="0" />
+<file name="assert-same.php" server="E:/wamp/www/upkeep_ftp/" local="132213884398439238" remote="132213884390000000" Dst="0" />
+<file name="assert-true.php" server="E:/wamp/www/upkeep_ftp/" local="132213884398539278" remote="132213884390000000" Dst="0" />
+<file name="fail.php" server="E:/wamp/www/upkeep_ftp/" local="132213884398639345" remote="132213884390000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Assert.php" server="E:/wamp/www/upkeep_ftp/" local="132213884311420456" remote="132213884310000000" Dst="0" />
+<file name="DataProviderTestSuite.php" server="E:/wamp/www/upkeep_ftp/" local="132213884318184943" remote="132213884310000000" Dst="0" />
+<file name="ExceptionWrapper.php" server="E:/wamp/www/upkeep_ftp/" local="132213884320476445" remote="132213884320000000" Dst="0" />
+<file name="IncompleteTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884320546494" remote="132213884320000000" Dst="0" />
+<file name="IncompleteTestCase.php" server="E:/wamp/www/upkeep_ftp/" local="132213884320676578" remote="132213884320000000" Dst="0" />
+<file name="InvalidParameterGroupException.php" server="E:/wamp/www/upkeep_ftp/" local="132213884320756620" remote="132213884320000000" Dst="0" />
+<file name="SelfDescribing.php" server="E:/wamp/www/upkeep_ftp/" local="132213884327661218" remote="132213884320000000" Dst="0" />
+<file name="SkippedTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884327741264" remote="132213884320000000" Dst="0" />
+<file name="SkippedTestCase.php" server="E:/wamp/www/upkeep_ftp/" local="132213884327861343" remote="132213884320000000" Dst="0" />
+<file name="Test.php" server="E:/wamp/www/upkeep_ftp/" local="132213884327941385" remote="132213884320000000" Dst="0" />
+<file name="TestBuilder.php" server="E:/wamp/www/upkeep_ftp/" local="132213884328111526" remote="132213884320000000" Dst="0" />
+<file name="TestCase.php" server="E:/wamp/www/upkeep_ftp/" local="132213884328611832" remote="132213884320000000" Dst="0" />
+<file name="TestFailure.php" server="E:/wamp/www/upkeep_ftp/" local="132213884328741943" remote="132213884320000000" Dst="0" />
+<file name="TestListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213884328912053" remote="132213884320000000" Dst="0" />
+<file name="TestListenerDefaultImplementation.php" server="E:/wamp/www/upkeep_ftp/" local="132213884329022128" remote="132213884320000000" Dst="0" />
+<file name="TestResult.php" server="E:/wamp/www/upkeep_ftp/" local="132213884329172230" remote="132213884320000000" Dst="0" />
+<file name="TestSuite.php" server="E:/wamp/www/upkeep_ftp/" local="132213884329392376" remote="132213884320000000" Dst="0" />
+<file name="TestSuiteIterator.php" server="E:/wamp/www/upkeep_ftp/" local="132213884329542473" remote="132213884320000000" Dst="0" />
+<file name="WarningTestCase.php" server="E:/wamp/www/upkeep_ftp/" local="132213884329672562" remote="132213884320000000" Dst="0" />
+</dwsync>

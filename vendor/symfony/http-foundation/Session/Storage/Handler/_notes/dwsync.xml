@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSessionHandler.php" server="E:/wamp/www/upkeep_ftp/" local="132213883604690294" remote="132213883600000000" Dst="0" />
+<file name="MemcachedSessionHandler.php" server="E:/wamp/www/upkeep_ftp/" local="132213883604840396" remote="132213883600000000" Dst="0" />
+<file name="MigratingSessionHandler.php" server="E:/wamp/www/upkeep_ftp/" local="132213883605010491" remote="132213883600000000" Dst="0" />
+<file name="MongoDbSessionHandler.php" server="E:/wamp/www/upkeep_ftp/" local="132213883605190599" remote="132213883600000000" Dst="0" />
+<file name="NativeFileSessionHandler.php" server="E:/wamp/www/upkeep_ftp/" local="132213883605330692" remote="132213883600000000" Dst="0" />
+<file name="NullSessionHandler.php" server="E:/wamp/www/upkeep_ftp/" local="132213883605470800" remote="132213883600000000" Dst="0" />
+<file name="PdoSessionHandler.php" server="E:/wamp/www/upkeep_ftp/" local="132213883605801018" remote="132213883600000000" Dst="0" />
+<file name="RedisSessionHandler.php" server="E:/wamp/www/upkeep_ftp/" local="132213883605961124" remote="132213883600000000" Dst="0" />
+<file name="SessionHandlerFactory.php" server="E:/wamp/www/upkeep_ftp/" local="132213883606121245" remote="132213883600000000" Dst="0" />
+<file name="StrictSessionHandler.php" server="E:/wamp/www/upkeep_ftp/" local="132213883606271316" remote="132213883600000000" Dst="0" />
+</dwsync>

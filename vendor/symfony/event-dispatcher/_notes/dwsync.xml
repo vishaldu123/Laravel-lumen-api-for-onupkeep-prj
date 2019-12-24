@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitattributes" server="E:/wamp/www/upkeep_ftp/" local="132213883624188723" remote="132213883620000000" Dst="0" />
+<file name="CHANGELOG.md" server="E:/wamp/www/upkeep_ftp/" local="132213883624278739" remote="132213883620000000" Dst="0" />
+<file name="composer.json" server="E:/wamp/www/upkeep_ftp/" local="132213883626150001" remote="132213883620000000" Dst="0" />
+<file name="Event.php" server="E:/wamp/www/upkeep_ftp/" local="132213883625069265" remote="132213883620000000" Dst="0" />
+<file name="EventDispatcher.php" server="E:/wamp/www/upkeep_ftp/" local="132213883625219359" remote="132213883620000000" Dst="0" />
+<file name="EventDispatcherInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883625339439" remote="132213883620000000" Dst="0" />
+<file name="EventSubscriberInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883625419503" remote="132213883620000000" Dst="0" />
+<file name="GenericEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883625589618" remote="132213883620000000" Dst="0" />
+<file name="ImmutableEventDispatcher.php" server="E:/wamp/www/upkeep_ftp/" local="132213883625729722" remote="132213883620000000" Dst="0" />
+<file name="LegacyEventDispatcherProxy.php" server="E:/wamp/www/upkeep_ftp/" local="132213883625919847" remote="132213883620000000" Dst="0" />
+<file name="LegacyEventProxy.php" server="E:/wamp/www/upkeep_ftp/" local="132213883626049935" remote="132213883620000000" Dst="0" />
+<file name="LICENSE" server="E:/wamp/www/upkeep_ftp/" local="132213883625749724" remote="132213883620000000" Dst="0" />
+<file name="README.md" server="E:/wamp/www/upkeep_ftp/" local="132213883626099955" remote="132213883620000000" Dst="0" />
+</dwsync>

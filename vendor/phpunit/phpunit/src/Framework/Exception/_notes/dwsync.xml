@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AssertionFailedError.php" server="E:/wamp/www/upkeep_ftp/" local="132213884318615199" remote="132213884310000000" Dst="0" />
+<file name="CodeCoverageException.php" server="E:/wamp/www/upkeep_ftp/" local="132213884318695252" remote="132213884310000000" Dst="0" />
+<file name="CoveredCodeNotExecutedException.php" server="E:/wamp/www/upkeep_ftp/" local="132213884318775309" remote="132213884310000000" Dst="0" />
+<file name="Exception.php" server="E:/wamp/www/upkeep_ftp/" local="132213884318925418" remote="132213884310000000" Dst="0" />
+<file name="ExpectationFailedException.php" server="E:/wamp/www/upkeep_ftp/" local="132213884319045487" remote="132213884310000000" Dst="0" />
+<file name="IncompleteTestError.php" server="E:/wamp/www/upkeep_ftp/" local="132213884319125551" remote="132213884310000000" Dst="0" />
+<file name="InvalidArgumentException.php" server="E:/wamp/www/upkeep_ftp/" local="132213884319225618" remote="132213884310000000" Dst="0" />
+<file name="InvalidCoversTargetException.php" server="E:/wamp/www/upkeep_ftp/" local="132213884319305659" remote="132213884310000000" Dst="0" />
+<file name="InvalidDataProviderException.php" server="E:/wamp/www/upkeep_ftp/" local="132213884319385712" remote="132213884310000000" Dst="0" />
+<file name="MissingCoversAnnotationException.php" server="E:/wamp/www/upkeep_ftp/" local="132213884319465765" remote="132213884310000000" Dst="0" />
+<file name="NoChildTestSuiteException.php" server="E:/wamp/www/upkeep_ftp/" local="132213884319535810" remote="132213884310000000" Dst="0" />
+<file name="OutputError.php" server="E:/wamp/www/upkeep_ftp/" local="132213884319615863" remote="132213884310000000" Dst="0" />
+<file name="PHPTAssertionFailedError.php" server="E:/wamp/www/upkeep_ftp/" local="132213884319725938" remote="132213884310000000" Dst="0" />
+<file name="RiskyTestError.php" server="E:/wamp/www/upkeep_ftp/" local="132213884319805991" remote="132213884310000000" Dst="0" />
+<file name="SkippedTestError.php" server="E:/wamp/www/upkeep_ftp/" local="132213884319886044" remote="132213884310000000" Dst="0" />
+<file name="SkippedTestSuiteError.php" server="E:/wamp/www/upkeep_ftp/" local="132213884319966097" remote="132213884310000000" Dst="0" />
+<file name="SyntheticError.php" server="E:/wamp/www/upkeep_ftp/" local="132213884320086173" remote="132213884320000000" Dst="0" />
+<file name="SyntheticSkippedError.php" server="E:/wamp/www/upkeep_ftp/" local="132213884320166226" remote="132213884320000000" Dst="0" />
+<file name="UnintentionallyCoveredCodeError.php" server="E:/wamp/www/upkeep_ftp/" local="132213884320246279" remote="132213884320000000" Dst="0" />
+<file name="Warning.php" server="E:/wamp/www/upkeep_ftp/" local="132213884320346346" remote="132213884320000000" Dst="0" />
+</dwsync>

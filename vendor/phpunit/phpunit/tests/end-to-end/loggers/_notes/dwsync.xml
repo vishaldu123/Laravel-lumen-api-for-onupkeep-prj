@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="custom-printer-debug.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884371591403" remote="132213884370000000" Dst="0" />
+<file name="custom-printer-verbose.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884371681465" remote="132213884370000000" Dst="0" />
+<file name="debug.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884371801556" remote="132213884370000000" Dst="0" />
+<file name="failure-reverse-list.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884371911627" remote="132213884370000000" Dst="0" />
+<file name="hooks.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884372131777" remote="132213884370000000" Dst="0" />
+<file name="log-junit-phpt.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884372221854" remote="132213884370000000" Dst="0" />
+<file name="log-junit.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884372321901" remote="132213884370000000" Dst="0" />
+<file name="log-teamcity-phpt.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884372401969" remote="132213884370000000" Dst="0" />
+<file name="log-teamcity.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884372492027" remote="132213884370000000" Dst="0" />
+<file name="teamcity-inner-exceptions.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884372592093" remote="132213884370000000" Dst="0" />
+<file name="teamcity.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884372682155" remote="132213884370000000" Dst="0" />
+<file name="testdox-colors-verbose.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884372762204" remote="132213884370000000" Dst="0" />
+<file name="testdox-dataprovider-placeholder.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884372852266" remote="132213884370000000" Dst="0" />
+<file name="testdox-exclude-group.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884372932293" remote="132213884370000000" Dst="0" />
+<file name="testdox-force-flush.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884373012357" remote="132213884370000000" Dst="0" />
+<file name="testdox-group.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884373102407" remote="132213884370000000" Dst="0" />
+<file name="testdox-html.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884373192465" remote="132213884370000000" Dst="0" />
+<file name="testdox-text.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884373272530" remote="132213884370000000" Dst="0" />
+<file name="testdox-xml.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884373372600" remote="132213884370000000" Dst="0" />
+<file name="testdox.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884373472662" remote="132213884370000000" Dst="0" />
+</dwsync>

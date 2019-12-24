@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BeanstalkdConnector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883994670365" remote="132213883990000000" Dst="0" />
+<file name="ConnectorInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883994750418" remote="132213883990000000" Dst="0" />
+<file name="DatabaseConnector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883994840479" remote="132213883990000000" Dst="0" />
+<file name="NullConnector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883994930537" remote="132213883990000000" Dst="0" />
+<file name="RedisConnector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883995030603" remote="132213883990000000" Dst="0" />
+<file name="SqsConnector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883995130670" remote="132213883990000000" Dst="0" />
+<file name="SyncConnector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883995230736" remote="132213883990000000" Dst="0" />
+</dwsync>

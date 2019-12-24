@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractHasher.php" server="E:/wamp/www/upkeep_ftp/" local="132213884019061786" remote="132213884010000000" Dst="0" />
+<file name="Argon2IdHasher.php" server="E:/wamp/www/upkeep_ftp/" local="132213884019201879" remote="132213884010000000" Dst="0" />
+<file name="ArgonHasher.php" server="E:/wamp/www/upkeep_ftp/" local="132213884019341961" remote="132213884010000000" Dst="0" />
+<file name="BcryptHasher.php" server="E:/wamp/www/upkeep_ftp/" local="132213884019452036" remote="132213884010000000" Dst="0" />
+<file name="composer.json" server="E:/wamp/www/upkeep_ftp/" local="132213884019803110" remote="132213884010000000" Dst="0" />
+<file name="HashManager.php" server="E:/wamp/www/upkeep_ftp/" local="132213884019612142" remote="132213884010000000" Dst="0" />
+<file name="HashServiceProvider.php" server="E:/wamp/www/upkeep_ftp/" local="132213884019743059" remote="132213884010000000" Dst="0" />
+<file name="LICENSE.md" server="E:/wamp/www/upkeep_ftp/" local="132213884019753078" remote="132213884010000000" Dst="0" />
+</dwsync>

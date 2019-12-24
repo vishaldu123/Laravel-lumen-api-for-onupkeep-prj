@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayLoader.php" server="E:/wamp/www/upkeep_ftp/" local="132213883753432488" remote="132213883750000000" Dst="0" />
+<file name="CsvFileLoader.php" server="E:/wamp/www/upkeep_ftp/" local="132213883753562576" remote="132213883750000000" Dst="0" />
+<file name="FileLoader.php" server="E:/wamp/www/upkeep_ftp/" local="132213883753692652" remote="132213883750000000" Dst="0" />
+<file name="IcuDatFileLoader.php" server="E:/wamp/www/upkeep_ftp/" local="132213883753812732" remote="132213883750000000" Dst="0" />
+<file name="IcuResFileLoader.php" server="E:/wamp/www/upkeep_ftp/" local="132213883753962826" remote="132213883750000000" Dst="0" />
+<file name="IniFileLoader.php" server="E:/wamp/www/upkeep_ftp/" local="132213883754072905" remote="132213883750000000" Dst="0" />
+<file name="JsonFileLoader.php" server="E:/wamp/www/upkeep_ftp/" local="132213883754202989" remote="132213883750000000" Dst="0" />
+<file name="LoaderInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883754293051" remote="132213883750000000" Dst="0" />
+<file name="MoFileLoader.php" server="E:/wamp/www/upkeep_ftp/" local="132213883754423131" remote="132213883750000000" Dst="0" />
+<file name="PhpFileLoader.php" server="E:/wamp/www/upkeep_ftp/" local="132213883754543215" remote="132213883750000000" Dst="0" />
+<file name="PoFileLoader.php" server="E:/wamp/www/upkeep_ftp/" local="132213883754703317" remote="132213883750000000" Dst="0" />
+<file name="QtFileLoader.php" server="E:/wamp/www/upkeep_ftp/" local="132213883754843410" remote="132213883750000000" Dst="0" />
+<file name="XliffFileLoader.php" server="E:/wamp/www/upkeep_ftp/" local="132213883755023529" remote="132213883750000000" Dst="0" />
+<file name="YamlFileLoader.php" server="E:/wamp/www/upkeep_ftp/" local="132213883755153618" remote="132213883750000000" Dst="0" />
+</dwsync>

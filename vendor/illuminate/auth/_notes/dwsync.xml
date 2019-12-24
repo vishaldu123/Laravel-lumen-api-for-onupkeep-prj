@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Authenticatable.php" server="E:/wamp/www/upkeep_ftp/" local="132213884044419140" remote="132213884040000000" Dst="0" />
+<file name="AuthenticationException.php" server="E:/wamp/www/upkeep_ftp/" local="132213884044509202" remote="132213884040000000" Dst="0" />
+<file name="AuthManager.php" server="E:/wamp/www/upkeep_ftp/" local="132213884044098928" remote="132213884040000000" Dst="0" />
+<file name="AuthServiceProvider.php" server="E:/wamp/www/upkeep_ftp/" local="132213884044269031" remote="132213884040000000" Dst="0" />
+<file name="composer.json" server="E:/wamp/www/upkeep_ftp/" local="132213884048592426" remote="132213884040000000" Dst="0" />
+<file name="CreatesUserProviders.php" server="E:/wamp/www/upkeep_ftp/" local="132213884044799510" remote="132213884040000000" Dst="0" />
+<file name="DatabaseUserProvider.php" server="E:/wamp/www/upkeep_ftp/" local="132213884044929594" remote="132213884040000000" Dst="0" />
+<file name="EloquentUserProvider.php" server="E:/wamp/www/upkeep_ftp/" local="132213884045059683" remote="132213884040000000" Dst="0" />
+<file name="GenericUser.php" server="E:/wamp/www/upkeep_ftp/" local="132213884046110796" remote="132213884040000000" Dst="0" />
+<file name="GuardHelpers.php" server="E:/wamp/www/upkeep_ftp/" local="132213884046260871" remote="132213884040000000" Dst="0" />
+<file name="LICENSE.md" server="E:/wamp/www/upkeep_ftp/" local="132213884046270875" remote="132213884040000000" Dst="0" />
+<file name="MustVerifyEmail.php" server="E:/wamp/www/upkeep_ftp/" local="132213884046941348" remote="132213884040000000" Dst="0" />
+<file name="Recaller.php" server="E:/wamp/www/upkeep_ftp/" local="132213884048162158" remote="132213884040000000" Dst="0" />
+<file name="RequestGuard.php" server="E:/wamp/www/upkeep_ftp/" local="132213884048292243" remote="132213884040000000" Dst="0" />
+<file name="SessionGuard.php" server="E:/wamp/www/upkeep_ftp/" local="132213884048422331" remote="132213884040000000" Dst="0" />
+<file name="TokenGuard.php" server="E:/wamp/www/upkeep_ftp/" local="132213884048532398" remote="132213884040000000" Dst="0" />
+</dwsync>

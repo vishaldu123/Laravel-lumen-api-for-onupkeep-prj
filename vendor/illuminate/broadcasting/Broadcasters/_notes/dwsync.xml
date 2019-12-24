@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Broadcaster.php" server="E:/wamp/www/upkeep_ftp/" local="132213884039680795" remote="132213884030000000" Dst="0" />
+<file name="LogBroadcaster.php" server="E:/wamp/www/upkeep_ftp/" local="132213884039800871" remote="132213884030000000" Dst="0" />
+<file name="NullBroadcaster.php" server="E:/wamp/www/upkeep_ftp/" local="132213884039900933" remote="132213884030000000" Dst="0" />
+<file name="PusherBroadcaster.php" server="E:/wamp/www/upkeep_ftp/" local="132213884040021024" remote="132213884040000000" Dst="0" />
+<file name="RedisBroadcaster.php" server="E:/wamp/www/upkeep_ftp/" local="132213884040131084" remote="132213884040000000" Dst="0" />
+<file name="UsePusherChannelConventions.php" server="E:/wamp/www/upkeep_ftp/" local="132213884040241163" remote="132213884040000000" Dst="0" />
+</dwsync>

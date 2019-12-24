@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AvoidMethodClashPass.php" server="E:/wamp/www/upkeep_ftp/" local="132213884444392429" remote="132213884440000000" Dst="0" />
+<file name="CallTypeHintPass.php" server="E:/wamp/www/upkeep_ftp/" local="132213884444522517" remote="132213884440000000" Dst="0" />
+<file name="ClassNamePass.php" server="E:/wamp/www/upkeep_ftp/" local="132213884444662587" remote="132213884440000000" Dst="0" />
+<file name="ClassPass.php" server="E:/wamp/www/upkeep_ftp/" local="132213884444792695" remote="132213884440000000" Dst="0" />
+<file name="ConstantsPass.php" server="E:/wamp/www/upkeep_ftp/" local="132213884444882756" remote="132213884440000000" Dst="0" />
+<file name="InstanceMockPass.php" server="E:/wamp/www/upkeep_ftp/" local="132213884445022826" remote="132213884440000000" Dst="0" />
+<file name="InterfacePass.php" server="E:/wamp/www/upkeep_ftp/" local="132213884445152911" remote="132213884440000000" Dst="0" />
+<file name="MagicMethodTypeHintsPass.php" server="E:/wamp/www/upkeep_ftp/" local="132213884445282995" remote="132213884440000000" Dst="0" />
+<file name="MethodDefinitionPass.php" server="E:/wamp/www/upkeep_ftp/" local="132213884445413106" remote="132213884440000000" Dst="0" />
+<file name="Pass.php" server="E:/wamp/www/upkeep_ftp/" local="132213884445503168" remote="132213884440000000" Dst="0" />
+<file name="RemoveBuiltinMethodsThatAreFinalPass.php" server="E:/wamp/www/upkeep_ftp/" local="132213884445693292" remote="132213884440000000" Dst="0" />
+<file name="RemoveDestructorPass.php" server="E:/wamp/www/upkeep_ftp/" local="132213884445813371" remote="132213884440000000" Dst="0" />
+<file name="RemoveUnserializeForInternalSerializableClassesPass.php" server="E:/wamp/www/upkeep_ftp/" local="132213884445943437" remote="132213884440000000" Dst="0" />
+<file name="TraitPass.php" server="E:/wamp/www/upkeep_ftp/" local="132213884446073521" remote="132213884440000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AddressLiteral.php" server="E:/wamp/www/upkeep_ftp/" local="132213883907397427" remote="132213883900000000" Dst="0" />
+<file name="CFWSNearAt.php" server="E:/wamp/www/upkeep_ftp/" local="132213883907477480" remote="132213883900000000" Dst="0" />
+<file name="CFWSWithFWS.php" server="E:/wamp/www/upkeep_ftp/" local="132213883907557537" remote="132213883900000000" Dst="0" />
+<file name="Comment.php" server="E:/wamp/www/upkeep_ftp/" local="132213883907637575" remote="132213883900000000" Dst="0" />
+<file name="DeprecatedComment.php" server="E:/wamp/www/upkeep_ftp/" local="132213883907717639" remote="132213883900000000" Dst="0" />
+<file name="DomainLiteral.php" server="E:/wamp/www/upkeep_ftp/" local="132213883907797692" remote="132213883900000000" Dst="0" />
+<file name="DomainTooLong.php" server="E:/wamp/www/upkeep_ftp/" local="132213883907877745" remote="132213883900000000" Dst="0" />
+<file name="EmailTooLong.php" server="E:/wamp/www/upkeep_ftp/" local="132213883907957802" remote="132213883900000000" Dst="0" />
+<file name="IPV6BadChar.php" server="E:/wamp/www/upkeep_ftp/" local="132213883908037829" remote="132213883900000000" Dst="0" />
+<file name="IPV6ColonEnd.php" server="E:/wamp/www/upkeep_ftp/" local="132213883908117882" remote="132213883900000000" Dst="0" />
+<file name="IPV6ColonStart.php" server="E:/wamp/www/upkeep_ftp/" local="132213883908197962" remote="132213883900000000" Dst="0" />
+<file name="IPV6Deprecated.php" server="E:/wamp/www/upkeep_ftp/" local="132213883908287997" remote="132213883900000000" Dst="0" />
+<file name="IPV6DoubleColon.php" server="E:/wamp/www/upkeep_ftp/" local="132213883908358068" remote="132213883900000000" Dst="0" />
+<file name="IPV6GroupCount.php" server="E:/wamp/www/upkeep_ftp/" local="132213883908438121" remote="132213883900000000" Dst="0" />
+<file name="IPV6MaxGroups.php" server="E:/wamp/www/upkeep_ftp/" local="132213883908518170" remote="132213883900000000" Dst="0" />
+<file name="LabelTooLong.php" server="E:/wamp/www/upkeep_ftp/" local="132213883908598227" remote="132213883900000000" Dst="0" />
+<file name="LocalTooLong.php" server="E:/wamp/www/upkeep_ftp/" local="132213883908688285" remote="132213883900000000" Dst="0" />
+<file name="NoDNSMXRecord.php" server="E:/wamp/www/upkeep_ftp/" local="132213883908768338" remote="132213883900000000" Dst="0" />
+<file name="ObsoleteDTEXT.php" server="E:/wamp/www/upkeep_ftp/" local="132213883908848391" remote="132213883900000000" Dst="0" />
+<file name="QuotedPart.php" server="E:/wamp/www/upkeep_ftp/" local="132213883908928444" remote="132213883900000000" Dst="0" />
+<file name="QuotedString.php" server="E:/wamp/www/upkeep_ftp/" local="132213883909018479" remote="132213883900000000" Dst="0" />
+<file name="TLD.php" server="E:/wamp/www/upkeep_ftp/" local="132213883909088550" remote="132213883900000000" Dst="0" />
+<file name="Warning.php" server="E:/wamp/www/upkeep_ftp/" local="132213883909188617" remote="132213883900000000" Dst="0" />
+</dwsync>

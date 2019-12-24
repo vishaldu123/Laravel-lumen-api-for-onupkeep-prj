@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ExceptionInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883927179246" remote="132213883920000000" Dst="0" />
+<file name="InvalidArgumentException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883927259303" remote="132213883920000000" Dst="0" />
+<file name="LogicException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883927339341" remote="132213883920000000" Dst="0" />
+<file name="ProcessFailedException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883927449427" remote="132213883920000000" Dst="0" />
+<file name="ProcessSignaledException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883927569511" remote="132213883920000000" Dst="0" />
+<file name="ProcessTimedOutException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883927689586" remote="132213883920000000" Dst="0" />
+<file name="RuntimeException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883927769640" remote="132213883920000000" Dst="0" />
+</dwsync>

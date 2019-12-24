@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ChromePHPFormatter.php" server="E:/wamp/www/upkeep_ftp/" local="132213883716613621" remote="132213883710000000" Dst="0" />
+<file name="ElasticaFormatter.php" server="E:/wamp/www/upkeep_ftp/" local="132213883716743694" remote="132213883710000000" Dst="0" />
+<file name="ElasticsearchFormatter.php" server="E:/wamp/www/upkeep_ftp/" local="132213883716853792" remote="132213883710000000" Dst="0" />
+<file name="FlowdockFormatter.php" server="E:/wamp/www/upkeep_ftp/" local="132213883716963867" remote="132213883710000000" Dst="0" />
+<file name="FluentdFormatter.php" server="E:/wamp/www/upkeep_ftp/" local="132213883717063933" remote="132213883710000000" Dst="0" />
+<file name="FormatterInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883717083920" remote="132213883710000000" Dst="0" />
+<file name="GelfMessageFormatter.php" server="E:/wamp/www/upkeep_ftp/" local="132213883717234017" remote="132213883710000000" Dst="0" />
+<file name="HtmlFormatter.php" server="E:/wamp/www/upkeep_ftp/" local="132213883717364117" remote="132213883710000000" Dst="0" />
+<file name="JsonFormatter.php" server="E:/wamp/www/upkeep_ftp/" local="132213883717494205" remote="132213883710000000" Dst="0" />
+<file name="LineFormatter.php" server="E:/wamp/www/upkeep_ftp/" local="132213883717644307" remote="132213883710000000" Dst="0" />
+<file name="LogglyFormatter.php" server="E:/wamp/www/upkeep_ftp/" local="132213883717764371" remote="132213883710000000" Dst="0" />
+<file name="LogmaticFormatter.php" server="E:/wamp/www/upkeep_ftp/" local="132213883717894471" remote="132213883710000000" Dst="0" />
+<file name="LogstashFormatter.php" server="E:/wamp/www/upkeep_ftp/" local="132213883718064597" remote="132213883710000000" Dst="0" />
+<file name="MongoDBFormatter.php" server="E:/wamp/www/upkeep_ftp/" local="132213883718204690" remote="132213883710000000" Dst="0" />
+<file name="NormalizerFormatter.php" server="E:/wamp/www/upkeep_ftp/" local="132213883718214694" remote="132213883710000000" Dst="0" />
+<file name="ScalarFormatter.php" server="E:/wamp/www/upkeep_ftp/" local="132213883718304756" remote="132213883710000000" Dst="0" />
+<file name="WildfireFormatter.php" server="E:/wamp/www/upkeep_ftp/" local="132213883718474844" remote="132213883710000000" Dst="0" />
+</dwsync>

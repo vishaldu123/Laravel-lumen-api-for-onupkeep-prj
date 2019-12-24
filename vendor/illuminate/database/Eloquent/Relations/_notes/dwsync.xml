@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BelongsTo.php" server="E:/wamp/www/upkeep_ftp/" local="132213883946479633" remote="132213883940000000" Dst="0" />
+<file name="BelongsToMany.php" server="E:/wamp/www/upkeep_ftp/" local="132213883946619737" remote="132213883940000000" Dst="0" />
+<file name="HasMany.php" server="E:/wamp/www/upkeep_ftp/" local="132213883947150102" remote="132213883940000000" Dst="0" />
+<file name="HasManyThrough.php" server="E:/wamp/www/upkeep_ftp/" local="132213883947290195" remote="132213883940000000" Dst="0" />
+<file name="HasOne.php" server="E:/wamp/www/upkeep_ftp/" local="132213883947390262" remote="132213883940000000" Dst="0" />
+<file name="HasOneOrMany.php" server="E:/wamp/www/upkeep_ftp/" local="132213883947530860" remote="132213883940000000" Dst="0" />
+<file name="HasOneThrough.php" server="E:/wamp/www/upkeep_ftp/" local="132213883947630926" remote="132213883940000000" Dst="0" />
+<file name="MorphMany.php" server="E:/wamp/www/upkeep_ftp/" local="132213883947720988" remote="132213883940000000" Dst="0" />
+<file name="MorphOne.php" server="E:/wamp/www/upkeep_ftp/" local="132213883947821054" remote="132213883940000000" Dst="0" />
+<file name="MorphOneOrMany.php" server="E:/wamp/www/upkeep_ftp/" local="132213883947971152" remote="132213883940000000" Dst="0" />
+<file name="MorphPivot.php" server="E:/wamp/www/upkeep_ftp/" local="132213883948101240" remote="132213883940000000" Dst="0" />
+<file name="MorphTo.php" server="E:/wamp/www/upkeep_ftp/" local="132213883948231321" remote="132213883940000000" Dst="0" />
+<file name="MorphToMany.php" server="E:/wamp/www/upkeep_ftp/" local="132213883948401439" remote="132213883940000000" Dst="0" />
+<file name="Pivot.php" server="E:/wamp/www/upkeep_ftp/" local="132213883948471484" remote="132213883940000000" Dst="0" />
+<file name="Relation.php" server="E:/wamp/www/upkeep_ftp/" local="132213883948611577" remote="132213883940000000" Dst="0" />
+</dwsync>

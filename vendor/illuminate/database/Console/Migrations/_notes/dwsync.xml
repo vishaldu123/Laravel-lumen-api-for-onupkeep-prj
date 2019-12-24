@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BaseCommand.php" server="E:/wamp/www/upkeep_ftp/" local="132213883941836360" remote="132213883940000000" Dst="0" />
+<file name="FreshCommand.php" server="E:/wamp/www/upkeep_ftp/" local="132213883941966444" remote="132213883940000000" Dst="0" />
+<file name="InstallCommand.php" server="E:/wamp/www/upkeep_ftp/" local="132213883942076519" remote="132213883940000000" Dst="0" />
+<file name="MigrateCommand.php" server="E:/wamp/www/upkeep_ftp/" local="132213883942196598" remote="132213883940000000" Dst="0" />
+<file name="MigrateMakeCommand.php" server="E:/wamp/www/upkeep_ftp/" local="132213883942366709" remote="132213883940000000" Dst="0" />
+<file name="RefreshCommand.php" server="E:/wamp/www/upkeep_ftp/" local="132213883942506802" remote="132213883940000000" Dst="0" />
+<file name="ResetCommand.php" server="E:/wamp/www/upkeep_ftp/" local="132213883942616866" remote="132213883940000000" Dst="0" />
+<file name="RollbackCommand.php" server="E:/wamp/www/upkeep_ftp/" local="132213883942726948" remote="132213883940000000" Dst="0" />
+<file name="StatusCommand.php" server="E:/wamp/www/upkeep_ftp/" local="132213883942887055" remote="132213883940000000" Dst="0" />
+<file name="TableGuesser.php" server="E:/wamp/www/upkeep_ftp/" local="132213883942987121" remote="132213883940000000" Dst="0" />
+</dwsync>

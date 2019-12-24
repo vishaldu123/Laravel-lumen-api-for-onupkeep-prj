@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AdhocTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884451317026" remote="132213884450000000" Dst="0" />
+<file name="AllowsExpectsSyntaxTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884451477117" remote="132213884450000000" Dst="0" />
+<file name="CallableSpyTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884451657251" remote="132213884450000000" Dst="0" />
+<file name="ContainerTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884452057517" remote="132213884450000000" Dst="0" />
+<file name="DemeterChainTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884452227605" remote="132213884450000000" Dst="0" />
+<file name="ExpectationTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884453178237" remote="132213884450000000" Dst="0" />
+<file name="GlobalHelpersTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884455900061" remote="132213884450000000" Dst="0" />
+<file name="HamcrestExpectationTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884456010136" remote="132213884450000000" Dst="0" />
+<file name="MockClassWithFinalWakeupTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884456750601" remote="132213884450000000" Dst="0" />
+<file name="MockClassWithMethodOverloadingTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884456880712" remote="132213884450000000" Dst="0" />
+<file name="MockClassWithUnknownTypeHintTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884456970773" remote="132213884450000000" Dst="0" />
+<file name="MockeryCanMockClassesWithSemiReservedWordsTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884457250933" remote="132213884450000000" Dst="0" />
+<file name="MockeryCanMockMultipleInterfacesWhichOverlapTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884457391026" remote="132213884450000000" Dst="0" />
+<file name="MockingAllLowerCasedMethodsTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884457481087" remote="132213884450000000" Dst="0" />
+<file name="MockingClassConstantsTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884457591170" remote="132213884450000000" Dst="0" />
+<file name="MockingHHVMMethodsTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884457731263" remote="132213884450000000" Dst="0" />
+<file name="MockingMethodsWithIterableTypeHintsTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884457831329" remote="132213884450000000" Dst="0" />
+<file name="MockingMethodsWithNullableParametersTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884457931399" remote="132213884450000000" Dst="0" />
+<file name="MockingNullableMethodsTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884458071492" remote="132213884450000000" Dst="0" />
+<file name="MockingProtectedMethodsTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884458241603" remote="132213884450000000" Dst="0" />
+<file name="MockingStaticMethodsCalledObjectStyleTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884458381700" remote="132213884450000000" Dst="0" />
+<file name="MockingVariadicArgumentsTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884458491767" remote="132213884450000000" Dst="0" />
+<file name="MockingVoidMethodsTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884458601842" remote="132213884450000000" Dst="0" />
+<file name="MockTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884457170883" remote="132213884450000000" Dst="0" />
+<file name="NamedMockTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884458741935" remote="132213884450000000" Dst="0" />
+<file name="ProxyMockingTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884458852006" remote="132213884450000000" Dst="0" />
+<file name="SpyTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884458982094" remote="132213884450000000" Dst="0" />
+<file name="TraitsTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884459292298" remote="132213884450000000" Dst="0" />
+<file name="WithFormatterExpectationTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884459452416" remote="132213884450000000" Dst="0" />
+</dwsync>

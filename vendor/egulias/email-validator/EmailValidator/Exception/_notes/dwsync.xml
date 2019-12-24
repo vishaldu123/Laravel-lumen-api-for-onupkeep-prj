@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AtextAfterCFWS.php" server="E:/wamp/www/upkeep_ftp/" local="132213883904065203" remote="132213883900000000" Dst="0" />
+<file name="CharNotAllowed.php" server="E:/wamp/www/upkeep_ftp/" local="132213883904365403" remote="132213883900000000" Dst="0" />
+<file name="CommaInDomain.php" server="E:/wamp/www/upkeep_ftp/" local="132213883904445459" remote="132213883900000000" Dst="0" />
+<file name="ConsecutiveAt.php" server="E:/wamp/www/upkeep_ftp/" local="132213883904515504" remote="132213883900000000" Dst="0" />
+<file name="ConsecutiveDot.php" server="E:/wamp/www/upkeep_ftp/" local="132213883904595561" remote="132213883900000000" Dst="0" />
+<file name="CRLFAtTheEnd.php" server="E:/wamp/www/upkeep_ftp/" local="132213883904145253" remote="132213883900000000" Dst="0" />
+<file name="CRLFX2.php" server="E:/wamp/www/upkeep_ftp/" local="132213883904215305" remote="132213883900000000" Dst="0" />
+<file name="CRNoLF.php" server="E:/wamp/www/upkeep_ftp/" local="132213883904295347" remote="132213883900000000" Dst="0" />
+<file name="DomainHyphened.php" server="E:/wamp/www/upkeep_ftp/" local="132213883904665605" remote="132213883900000000" Dst="0" />
+<file name="DotAtEnd.php" server="E:/wamp/www/upkeep_ftp/" local="132213883904745647" remote="132213883900000000" Dst="0" />
+<file name="DotAtStart.php" server="E:/wamp/www/upkeep_ftp/" local="132213883904815692" remote="132213883900000000" Dst="0" />
+<file name="ExpectingAT.php" server="E:/wamp/www/upkeep_ftp/" local="132213883904885751" remote="132213883900000000" Dst="0" />
+<file name="ExpectingATEXT.php" server="E:/wamp/www/upkeep_ftp/" local="132213883904965805" remote="132213883900000000" Dst="0" />
+<file name="ExpectingCTEXT.php" server="E:/wamp/www/upkeep_ftp/" local="132213883905035849" remote="132213883900000000" Dst="0" />
+<file name="ExpectingDomainLiteralClose.php" server="E:/wamp/www/upkeep_ftp/" local="132213883905185947" remote="132213883900000000" Dst="0" />
+<file name="ExpectingDTEXT.php" server="E:/wamp/www/upkeep_ftp/" local="132213883905115902" remote="132213883900000000" Dst="0" />
+<file name="ExpectingQPair.php" server="E:/wamp/www/upkeep_ftp/" local="132213883905266000" remote="132213883900000000" Dst="0" />
+<file name="InvalidEmail.php" server="E:/wamp/www/upkeep_ftp/" local="132213883905346057" remote="132213883900000000" Dst="0" />
+<file name="NoDNSRecord.php" server="E:/wamp/www/upkeep_ftp/" local="132213883905426110" remote="132213883900000000" Dst="0" />
+<file name="NoDomainPart.php" server="E:/wamp/www/upkeep_ftp/" local="132213883905496143" remote="132213883900000000" Dst="0" />
+<file name="NoLocalPart.php" server="E:/wamp/www/upkeep_ftp/" local="132213883905576196" remote="132213883900000000" Dst="0" />
+<file name="UnclosedComment.php" server="E:/wamp/www/upkeep_ftp/" local="132213883905646244" remote="132213883900000000" Dst="0" />
+<file name="UnclosedQuotedString.php" server="E:/wamp/www/upkeep_ftp/" local="132213883905726294" remote="132213883900000000" Dst="0" />
+<file name="UnopenedComment.php" server="E:/wamp/www/upkeep_ftp/" local="132213883905806347" remote="132213883900000000" Dst="0" />
+</dwsync>

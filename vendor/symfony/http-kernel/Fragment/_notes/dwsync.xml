@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSurrogateFragmentRenderer.php" server="E:/wamp/www/upkeep_ftp/" local="132213883686293827" remote="132213883680000000" Dst="0" />
+<file name="EsiFragmentRenderer.php" server="E:/wamp/www/upkeep_ftp/" local="132213883686403906" remote="132213883680000000" Dst="0" />
+<file name="FragmentHandler.php" server="E:/wamp/www/upkeep_ftp/" local="132213883686513977" remote="132213883680000000" Dst="0" />
+<file name="FragmentRendererInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883686614039" remote="132213883680000000" Dst="0" />
+<file name="HIncludeFragmentRenderer.php" server="E:/wamp/www/upkeep_ftp/" local="132213883686734123" remote="132213883680000000" Dst="0" />
+<file name="InlineFragmentRenderer.php" server="E:/wamp/www/upkeep_ftp/" local="132213883686904234" remote="132213883680000000" Dst="0" />
+<file name="RoutableFragmentRenderer.php" server="E:/wamp/www/upkeep_ftp/" local="132213883687014305" remote="132213883680000000" Dst="0" />
+<file name="SsiFragmentRenderer.php" server="E:/wamp/www/upkeep_ftp/" local="132213883687114375" remote="132213883680000000" Dst="0" />
+</dwsync>

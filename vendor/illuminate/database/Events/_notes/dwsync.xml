@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConnectionEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883949121910" remote="132213883940000000" Dst="0" />
+<file name="MigrationEnded.php" server="E:/wamp/www/upkeep_ftp/" local="132213883949211967" remote="132213883940000000" Dst="0" />
+<file name="MigrationEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883949302029" remote="132213883940000000" Dst="0" />
+<file name="MigrationsEnded.php" server="E:/wamp/www/upkeep_ftp/" local="132213883949472148" remote="132213883940000000" Dst="0" />
+<file name="MigrationsStarted.php" server="E:/wamp/www/upkeep_ftp/" local="132213883949562209" remote="132213883940000000" Dst="0" />
+<file name="MigrationStarted.php" server="E:/wamp/www/upkeep_ftp/" local="132213883949382086" remote="132213883940000000" Dst="0" />
+<file name="QueryExecuted.php" server="E:/wamp/www/upkeep_ftp/" local="132213883949662276" remote="132213883940000000" Dst="0" />
+<file name="StatementPrepared.php" server="E:/wamp/www/upkeep_ftp/" local="132213883949742329" remote="132213883940000000" Dst="0" />
+<file name="TransactionBeginning.php" server="E:/wamp/www/upkeep_ftp/" local="132213883949832390" remote="132213883940000000" Dst="0" />
+<file name="TransactionCommitted.php" server="E:/wamp/www/upkeep_ftp/" local="132213883949912440" remote="132213883940000000" Dst="0" />
+<file name="TransactionRolledBack.php" server="E:/wamp/www/upkeep_ftp/" local="132213883950002501" remote="132213883950000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSessionListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883681490672" remote="132213883680000000" Dst="0" />
+<file name="AbstractTestSessionListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883681670764" remote="132213883680000000" Dst="0" />
+<file name="AddRequestFormatsListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883681800864" remote="132213883680000000" Dst="0" />
+<file name="DebugHandlersListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883681970994" remote="132213883680000000" Dst="0" />
+<file name="DisallowRobotsIndexingListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883682071030" remote="132213883680000000" Dst="0" />
+<file name="DumpListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883682211123" remote="132213883680000000" Dst="0" />
+<file name="ErrorListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883682381238" remote="132213883680000000" Dst="0" />
+<file name="ExceptionListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883682561357" remote="132213883680000000" Dst="0" />
+<file name="FragmentListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883682711470" remote="132213883680000000" Dst="0" />
+<file name="LocaleAwareListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883682871572" remote="132213883680000000" Dst="0" />
+<file name="LocaleListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883683031678" remote="132213883680000000" Dst="0" />
+<file name="ProfilerListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883683201778" remote="132213883680000000" Dst="0" />
+<file name="ResponseListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883683321858" remote="132213883680000000" Dst="0" />
+<file name="RouterListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883683531995" remote="132213883680000000" Dst="0" />
+<file name="SaveSessionListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883683662098" remote="132213883680000000" Dst="0" />
+<file name="SessionListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883683782163" remote="132213883680000000" Dst="0" />
+<file name="StreamedResponseListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883683892238" remote="132213883680000000" Dst="0" />
+<file name="SurrogateListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883684022326" remote="132213883680000000" Dst="0" />
+<file name="TestSessionListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883684142417" remote="132213883680000000" Dst="0" />
+<file name="TranslatorListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883684292503" remote="132213883680000000" Dst="0" />
+<file name="ValidateRequestListener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883684412598" remote="132213883680000000" Dst="0" />
+</dwsync>

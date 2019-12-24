@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="composer.json" server="E:/wamp/www/upkeep_ftp/" local="132213883956296674" remote="132213883950000000" Dst="0" />
+<file name="ConfigurationUrlParser.php" server="E:/wamp/www/upkeep_ftp/" local="132213883940075180" remote="132213883940000000" Dst="0" />
+<file name="Connection.php" server="E:/wamp/www/upkeep_ftp/" local="132213883940225282" remote="132213883940000000" Dst="0" />
+<file name="ConnectionInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883940385395" remote="132213883940000000" Dst="0" />
+<file name="ConnectionResolver.php" server="E:/wamp/www/upkeep_ftp/" local="132213883940505475" remote="132213883940000000" Dst="0" />
+<file name="ConnectionResolverInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883940595525" remote="132213883940000000" Dst="0" />
+<file name="DatabaseManager.php" server="E:/wamp/www/upkeep_ftp/" local="132213883943587519" remote="132213883940000000" Dst="0" />
+<file name="DatabaseServiceProvider.php" server="E:/wamp/www/upkeep_ftp/" local="132213883943747625" remote="132213883940000000" Dst="0" />
+<file name="DetectsConcurrencyErrors.php" server="E:/wamp/www/upkeep_ftp/" local="132213883943827678" remote="132213883940000000" Dst="0" />
+<file name="DetectsLostConnections.php" server="E:/wamp/www/upkeep_ftp/" local="132213883943917740" remote="132213883940000000" Dst="0" />
+<file name="Grammar.php" server="E:/wamp/www/upkeep_ftp/" local="132213883950142594" remote="132213883950000000" Dst="0" />
+<file name="LICENSE.md" server="E:/wamp/www/upkeep_ftp/" local="132213883950152607" remote="132213883950000000" Dst="0" />
+<file name="MigrationServiceProvider.php" server="E:/wamp/www/upkeep_ftp/" local="132213883950362740" remote="132213883950000000" Dst="0" />
+<file name="MySqlConnection.php" server="E:/wamp/www/upkeep_ftp/" local="132213883951493481" remote="132213883950000000" Dst="0" />
+<file name="PostgresConnection.php" server="E:/wamp/www/upkeep_ftp/" local="132213883951623569" remote="132213883950000000" Dst="0" />
+<file name="QueryException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883953664919" remote="132213883950000000" Dst="0" />
+<file name="README.md" server="E:/wamp/www/upkeep_ftp/" local="132213883953734979" remote="132213883950000000" Dst="0" />
+<file name="Seeder.php" server="E:/wamp/www/upkeep_ftp/" local="132213883956116555" remote="132213883950000000" Dst="0" />
+<file name="SQLiteConnection.php" server="E:/wamp/www/upkeep_ftp/" local="132213883953875068" remote="132213883950000000" Dst="0" />
+<file name="SqlServerConnection.php" server="E:/wamp/www/upkeep_ftp/" local="132213883956246643" remote="132213883950000000" Dst="0" />
+</dwsync>

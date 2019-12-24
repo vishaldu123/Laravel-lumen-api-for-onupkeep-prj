@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Blueprint.php" server="E:/wamp/www/upkeep_ftp/" local="132213883954015161" remote="132213883950000000" Dst="0" />
+<file name="Builder.php" server="E:/wamp/www/upkeep_ftp/" local="132213883954165262" remote="132213883950000000" Dst="0" />
+<file name="ColumnDefinition.php" server="E:/wamp/www/upkeep_ftp/" local="132213883954285334" remote="132213883950000000" Dst="0" />
+<file name="ForeignKeyDefinition.php" server="E:/wamp/www/upkeep_ftp/" local="132213883954385408" remote="132213883950000000" Dst="0" />
+<file name="MySqlBuilder.php" server="E:/wamp/www/upkeep_ftp/" local="132213883955626220" remote="132213883950000000" Dst="0" />
+<file name="PostgresBuilder.php" server="E:/wamp/www/upkeep_ftp/" local="132213883955796342" remote="132213883950000000" Dst="0" />
+<file name="SQLiteBuilder.php" server="E:/wamp/www/upkeep_ftp/" local="132213883955916426" remote="132213883950000000" Dst="0" />
+<file name="SqlServerBuilder.php" server="E:/wamp/www/upkeep_ftp/" local="132213883955996475" remote="132213883950000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClosureWrapper.php" server="E:/wamp/www/upkeep_ftp/" local="132213884440770026" remote="132213884440000000" Dst="0" />
+<file name="CompositeExpectation.php" server="E:/wamp/www/upkeep_ftp/" local="132213884440950123" remote="132213884440000000" Dst="0" />
+<file name="Configuration.php" server="E:/wamp/www/upkeep_ftp/" local="132213884441120261" remote="132213884440000000" Dst="0" />
+<file name="Container.php" server="E:/wamp/www/upkeep_ftp/" local="132213884441320393" remote="132213884440000000" Dst="0" />
+<file name="Exception.php" server="E:/wamp/www/upkeep_ftp/" local="132213884441890770" remote="132213884440000000" Dst="0" />
+<file name="Expectation.php" server="E:/wamp/www/upkeep_ftp/" local="132213884442691305" remote="132213884440000000" Dst="0" />
+<file name="ExpectationDirector.php" server="E:/wamp/www/upkeep_ftp/" local="132213884442821389" remote="132213884440000000" Dst="0" />
+<file name="ExpectationInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213884442921433" remote="132213884440000000" Dst="0" />
+<file name="ExpectsHigherOrderMessage.php" server="E:/wamp/www/upkeep_ftp/" local="132213884443041531" remote="132213884440000000" Dst="0" />
+<file name="HigherOrderMessage.php" server="E:/wamp/www/upkeep_ftp/" local="132213884446633920" remote="132213884440000000" Dst="0" />
+<file name="Instantiator.php" server="E:/wamp/www/upkeep_ftp/" local="132213884446774012" remote="132213884440000000" Dst="0" />
+<file name="LegacyMockInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213884446934119" remote="132213884440000000" Dst="0" />
+<file name="MethodCall.php" server="E:/wamp/www/upkeep_ftp/" local="132213884449715937" remote="132213884440000000" Dst="0" />
+<file name="Mock.php" server="E:/wamp/www/upkeep_ftp/" local="132213884449966112" remote="132213884440000000" Dst="0" />
+<file name="MockInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213884450076214" remote="132213884450000000" Dst="0" />
+<file name="ReceivedMethodCalls.php" server="E:/wamp/www/upkeep_ftp/" local="132213884450166234" remote="132213884450000000" Dst="0" />
+<file name="Undefined.php" server="E:/wamp/www/upkeep_ftp/" local="132213884450286325" remote="132213884450000000" Dst="0" />
+<file name="VerificationDirector.php" server="E:/wamp/www/upkeep_ftp/" local="132213884450456455" remote="132213884450000000" Dst="0" />
+<file name="VerificationExpectation.php" server="E:/wamp/www/upkeep_ftp/" local="132213884450546509" remote="132213884450000000" Dst="0" />
+</dwsync>

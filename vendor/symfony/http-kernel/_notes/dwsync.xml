@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitattributes" server="E:/wamp/www/upkeep_ftp/" local="132213883671814248" remote="132213883670000000" Dst="0" />
+<file name="CHANGELOG.md" server="E:/wamp/www/upkeep_ftp/" local="132213883672154455" remote="132213883670000000" Dst="0" />
+<file name="Client.php" server="E:/wamp/www/upkeep_ftp/" local="132213883673105110" remote="132213883670000000" Dst="0" />
+<file name="composer.json" server="E:/wamp/www/upkeep_ftp/" local="132213883691097032" remote="132213883690000000" Dst="0" />
+<file name="HttpClientKernel.php" server="E:/wamp/www/upkeep_ftp/" local="132213883688625390" remote="132213883680000000" Dst="0" />
+<file name="HttpKernel.php" server="E:/wamp/www/upkeep_ftp/" local="132213883688825512" remote="132213883680000000" Dst="0" />
+<file name="HttpKernelBrowser.php" server="E:/wamp/www/upkeep_ftp/" local="132213883688905576" remote="132213883680000000" Dst="0" />
+<file name="HttpKernelInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883689005627" remote="132213883680000000" Dst="0" />
+<file name="Kernel.php" server="E:/wamp/www/upkeep_ftp/" local="132213883689235793" remote="132213883680000000" Dst="0" />
+<file name="KernelEvents.php" server="E:/wamp/www/upkeep_ftp/" local="132213883689355873" remote="132213883680000000" Dst="0" />
+<file name="KernelInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883689626043" remote="132213883680000000" Dst="0" />
+<file name="LICENSE" server="E:/wamp/www/upkeep_ftp/" local="132213883689636047" remote="132213883680000000" Dst="0" />
+<file name="README.md" server="E:/wamp/www/upkeep_ftp/" local="132213883690586687" remote="132213883690000000" Dst="0" />
+<file name="RebootableInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883690666744" remote="132213883690000000" Dst="0" />
+<file name="TerminableInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883690886887" remote="132213883690000000" Dst="0" />
+<file name="UriSigner.php" server="E:/wamp/www/upkeep_ftp/" local="132213883691036988" remote="132213883690000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessDeniedHttpException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883684502645" remote="132213883680000000" Dst="0" />
+<file name="BadRequestHttpException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883684592702" remote="132213883680000000" Dst="0" />
+<file name="ConflictHttpException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883684682760" remote="132213883680000000" Dst="0" />
+<file name="ControllerDoesNotReturnResponseException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883684822853" remote="132213883680000000" Dst="0" />
+<file name="GoneHttpException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883684912919" remote="132213883680000000" Dst="0" />
+<file name="HttpException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883685043007" remote="132213883680000000" Dst="0" />
+<file name="HttpExceptionInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883685143069" remote="132213883680000000" Dst="0" />
+<file name="LengthRequiredHttpException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883685253140" remote="132213883680000000" Dst="0" />
+<file name="MethodNotAllowedHttpException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883685343198" remote="132213883680000000" Dst="0" />
+<file name="NotAcceptableHttpException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883685443272" remote="132213883680000000" Dst="0" />
+<file name="NotFoundHttpException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883685543331" remote="132213883680000000" Dst="0" />
+<file name="PreconditionFailedHttpException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883685623388" remote="132213883680000000" Dst="0" />
+<file name="PreconditionRequiredHttpException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883685723454" remote="132213883680000000" Dst="0" />
+<file name="ServiceUnavailableHttpException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883685813516" remote="132213883680000000" Dst="0" />
+<file name="TooManyRequestsHttpException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883685903570" remote="132213883680000000" Dst="0" />
+<file name="UnauthorizedHttpException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883685993635" remote="132213883680000000" Dst="0" />
+<file name="UnprocessableEntityHttpException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883686083693" remote="132213883680000000" Dst="0" />
+<file name="UnsupportedMediaTypeHttpException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883686173751" remote="132213883680000000" Dst="0" />
+</dwsync>

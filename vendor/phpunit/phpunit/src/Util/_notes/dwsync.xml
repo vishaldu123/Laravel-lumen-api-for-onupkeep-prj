@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Blacklist.php" server="E:/wamp/www/upkeep_ftp/" local="132213884334055469" remote="132213884330000000" Dst="0" />
+<file name="Color.php" server="E:/wamp/www/upkeep_ftp/" local="132213884334195558" remote="132213884330000000" Dst="0" />
+<file name="Configuration.php" server="E:/wamp/www/upkeep_ftp/" local="132213884334325646" remote="132213884330000000" Dst="0" />
+<file name="ConfigurationGenerator.php" server="E:/wamp/www/upkeep_ftp/" local="132213884334425712" remote="132213884330000000" Dst="0" />
+<file name="ErrorHandler.php" server="E:/wamp/www/upkeep_ftp/" local="132213884334595823" remote="132213884330000000" Dst="0" />
+<file name="Exception.php" server="E:/wamp/www/upkeep_ftp/" local="132213884334675876" remote="132213884330000000" Dst="0" />
+<file name="FileLoader.php" server="E:/wamp/www/upkeep_ftp/" local="132213884334815969" remote="132213884330000000" Dst="0" />
+<file name="Filesystem.php" server="E:/wamp/www/upkeep_ftp/" local="132213884334936026" remote="132213884330000000" Dst="0" />
+<file name="Filter.php" server="E:/wamp/www/upkeep_ftp/" local="132213884335076146" remote="132213884330000000" Dst="0" />
+<file name="Getopt.php" server="E:/wamp/www/upkeep_ftp/" local="132213884335186190" remote="132213884330000000" Dst="0" />
+<file name="GlobalState.php" server="E:/wamp/www/upkeep_ftp/" local="132213884335296261" remote="132213884330000000" Dst="0" />
+<file name="InvalidDataSetException.php" server="E:/wamp/www/upkeep_ftp/" local="132213884335376341" remote="132213884330000000" Dst="0" />
+<file name="Json.php" server="E:/wamp/www/upkeep_ftp/" local="132213884335486416" remote="132213884330000000" Dst="0" />
+<file name="Printer.php" server="E:/wamp/www/upkeep_ftp/" local="132213884336817274" remote="132213884330000000" Dst="0" />
+<file name="RegularExpression.php" server="E:/wamp/www/upkeep_ftp/" local="132213884336947354" remote="132213884330000000" Dst="0" />
+<file name="Test.php" server="E:/wamp/www/upkeep_ftp/" local="132213884337177509" remote="132213884330000000" Dst="0" />
+<file name="TextTestListRenderer.php" server="E:/wamp/www/upkeep_ftp/" local="132213884338458362" remote="132213884330000000" Dst="0" />
+<file name="Type.php" server="E:/wamp/www/upkeep_ftp/" local="132213884338568449" remote="132213884330000000" Dst="0" />
+<file name="XdebugFilterScriptGenerator.php" server="E:/wamp/www/upkeep_ftp/" local="132213884338698533" remote="132213884330000000" Dst="0" />
+<file name="Xml.php" server="E:/wamp/www/upkeep_ftp/" local="132213884338818613" remote="132213884330000000" Dst="0" />
+<file name="XmlTestListRenderer.php" server="E:/wamp/www/upkeep_ftp/" local="132213884338958694" remote="132213884330000000" Dst="0" />
+</dwsync>

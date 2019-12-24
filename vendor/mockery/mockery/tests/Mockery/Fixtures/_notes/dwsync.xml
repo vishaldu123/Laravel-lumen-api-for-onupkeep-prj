@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClassWithAllLowerCaseMethod.php" server="E:/wamp/www/upkeep_ftp/" local="132213884453288331" remote="132213884450000000" Dst="0" />
+<file name="ClassWithConstants.php" server="E:/wamp/www/upkeep_ftp/" local="132213884453388375" remote="132213884450000000" Dst="0" />
+<file name="EmptyTestCaseV5.php" server="E:/wamp/www/upkeep_ftp/" local="132213884453498472" remote="132213884450000000" Dst="0" />
+<file name="EmptyTestCaseV6.php" server="E:/wamp/www/upkeep_ftp/" local="132213884453608544" remote="132213884450000000" Dst="0" />
+<file name="EmptyTestCaseV7.php" server="E:/wamp/www/upkeep_ftp/" local="132213884453718618" remote="132213884450000000" Dst="0" />
+<file name="MethodWithHHVMReturnType.php" server="E:/wamp/www/upkeep_ftp/" local="132213884453798672" remote="132213884450000000" Dst="0" />
+<file name="MethodWithIterableTypeHints.php" server="E:/wamp/www/upkeep_ftp/" local="132213884453888729" remote="132213884450000000" Dst="0" />
+<file name="MethodWithNullableReturnType.php" server="E:/wamp/www/upkeep_ftp/" local="132213884454018818" remote="132213884450000000" Dst="0" />
+<file name="MethodWithNullableTypedParameter.php" server="E:/wamp/www/upkeep_ftp/" local="132213884454118857" remote="132213884450000000" Dst="0" />
+<file name="MethodWithParametersWithDefaultValues.php" server="E:/wamp/www/upkeep_ftp/" local="132213884454208930" remote="132213884450000000" Dst="0" />
+<file name="MethodWithVoidReturnType.php" server="E:/wamp/www/upkeep_ftp/" local="132213884454298988" remote="132213884450000000" Dst="0" />
+<file name="SemiReservedWordsAsMethods.php" server="E:/wamp/www/upkeep_ftp/" local="132213884454619212" remote="132213884450000000" Dst="0" />
+</dwsync>

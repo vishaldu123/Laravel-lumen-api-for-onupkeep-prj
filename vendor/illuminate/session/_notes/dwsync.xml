@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CacheBasedSessionHandler.php" server="E:/wamp/www/upkeep_ftp/" local="132213884007832602" remote="132213884000000000" Dst="0" />
+<file name="composer.json" server="E:/wamp/www/upkeep_ftp/" local="132213884009563749" remote="132213884000000000" Dst="0" />
+<file name="CookieSessionHandler.php" server="E:/wamp/www/upkeep_ftp/" local="132213884008182825" remote="132213884000000000" Dst="0" />
+<file name="DatabaseSessionHandler.php" server="E:/wamp/www/upkeep_ftp/" local="132213884008322926" remote="132213884000000000" Dst="0" />
+<file name="EncryptedStore.php" server="E:/wamp/www/upkeep_ftp/" local="132213884008422992" remote="132213884000000000" Dst="0" />
+<file name="ExistenceAwareInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213884008503038" remote="132213884000000000" Dst="0" />
+<file name="FileSessionHandler.php" server="E:/wamp/www/upkeep_ftp/" local="132213884008613105" remote="132213884000000000" Dst="0" />
+<file name="LICENSE.md" server="E:/wamp/www/upkeep_ftp/" local="132213884008623113" remote="132213884000000000" Dst="0" />
+<file name="NullSessionHandler.php" server="E:/wamp/www/upkeep_ftp/" local="132213884008963339" remote="132213884000000000" Dst="0" />
+<file name="SessionManager.php" server="E:/wamp/www/upkeep_ftp/" local="132213884009153467" remote="132213884000000000" Dst="0" />
+<file name="SessionServiceProvider.php" server="E:/wamp/www/upkeep_ftp/" local="132213884009283559" remote="132213884000000000" Dst="0" />
+<file name="Store.php" server="E:/wamp/www/upkeep_ftp/" local="132213884009433664" remote="132213884000000000" Dst="0" />
+<file name="TokenMismatchException.php" server="E:/wamp/www/upkeep_ftp/" local="132213884009503709" remote="132213884000000000" Dst="0" />
+</dwsync>

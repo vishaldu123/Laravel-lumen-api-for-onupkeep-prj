@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="call_original.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884378956315" remote="132213884370000000" Dst="0" />
+<file name="call_original_with_argument.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884379066386" remote="132213884370000000" Dst="0" />
+<file name="call_original_with_argument_variadic.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884379186465" remote="132213884370000000" Dst="0" />
+<file name="call_original_with_return_type_void.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884379296540" remote="132213884370000000" Dst="0" />
+<file name="clone_method_arguments.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884379416620" remote="132213884370000000" Dst="0" />
+<file name="deprecated_without_description.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884379646771" remote="132213884370000000" Dst="0" />
+<file name="deprecated_with_description.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884379526695" remote="132213884370000000" Dst="0" />
+<file name="private_method.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884379756845" remote="132213884370000000" Dst="0" />
+<file name="protected_method.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884379876902" remote="132213884370000000" Dst="0" />
+<file name="return_by_reference.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884379976991" remote="132213884370000000" Dst="0" />
+<file name="return_by_reference_with_return_type.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884380097071" remote="132213884380000000" Dst="0" />
+<file name="return_type.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884380207142" remote="132213884380000000" Dst="0" />
+<file name="return_type_parent.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884380317191" remote="132213884380000000" Dst="0" />
+<file name="return_type_self.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884380427265" remote="132213884380000000" Dst="0" />
+<file name="static_method.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884380527332" remote="132213884380000000" Dst="0" />
+<file name="static_method_with_return_type.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884380637403" remote="132213884380000000" Dst="0" />
+<file name="with_argument.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884380747478" remote="132213884380000000" Dst="0" />
+<file name="with_arguments.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884382328553" remote="132213884380000000" Dst="0" />
+<file name="with_argument_default.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884380857564" remote="132213884380000000" Dst="0" />
+<file name="with_argument_default_constant.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884380967631" remote="132213884380000000" Dst="0" />
+<file name="with_argument_default_null.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884381077703" remote="132213884380000000" Dst="0" />
+<file name="with_argument_nullable.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884381197786" remote="132213884380000000" Dst="0" />
+<file name="with_argument_reference.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884381317869" remote="132213884380000000" Dst="0" />
+<file name="with_argument_typed_array.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884381427941" remote="132213884380000000" Dst="0" />
+<file name="with_argument_typed_callable.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884381538015" remote="132213884380000000" Dst="0" />
+<file name="with_argument_typed_class.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884381648102" remote="132213884380000000" Dst="0" />
+<file name="with_argument_typed_scalar.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884381768178" remote="132213884380000000" Dst="0" />
+<file name="with_argument_typed_self.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884381878252" remote="132213884380000000" Dst="0" />
+<file name="with_argument_typed_unkown_class.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884381988327" remote="132213884380000000" Dst="0" />
+<file name="with_argument_typed_variadic.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884382108407" remote="132213884380000000" Dst="0" />
+<file name="with_argument_variadic.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884382218455" remote="132213884380000000" Dst="0" />
+</dwsync>

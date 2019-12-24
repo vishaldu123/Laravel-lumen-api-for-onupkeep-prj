@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessDeniedException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883598135922" remote="132213883590000000" Dst="0" />
+<file name="CannotWriteFileException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883598215975" remote="132213883590000000" Dst="0" />
+<file name="ExtensionFileException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883598306052" remote="132213883590000000" Dst="0" />
+<file name="FileException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883598416127" remote="132213883590000000" Dst="0" />
+<file name="FileNotFoundException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883598496173" remote="132213883590000000" Dst="0" />
+<file name="FormSizeFileException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883598586231" remote="132213883590000000" Dst="0" />
+<file name="IniSizeFileException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883598666287" remote="132213883590000000" Dst="0" />
+<file name="NoFileException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883598746344" remote="132213883590000000" Dst="0" />
+<file name="NoTmpDirFileException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883598826394" remote="132213883590000000" Dst="0" />
+<file name="PartialFileException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883598906443" remote="132213883590000000" Dst="0" />
+<file name="UnexpectedTypeException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883598986485" remote="132213883590000000" Dst="0" />
+<file name="UploadException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883599066538" remote="132213883590000000" Dst="0" />
+</dwsync>

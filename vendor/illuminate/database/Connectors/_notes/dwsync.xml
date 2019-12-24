@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConnectionFactory.php" server="E:/wamp/www/upkeep_ftp/" local="132213883940735626" remote="132213883940000000" Dst="0" />
+<file name="Connector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883940855705" remote="132213883940000000" Dst="0" />
+<file name="ConnectorInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883940925754" remote="132213883940000000" Dst="0" />
+<file name="MySqlConnector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883941085860" remote="132213883940000000" Dst="0" />
+<file name="PostgresConnector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883941255975" remote="132213883940000000" Dst="0" />
+<file name="SQLiteConnector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883941346032" remote="132213883940000000" Dst="0" />
+<file name="SqlServerConnector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883941476121" remote="132213883940000000" Dst="0" />
+</dwsync>

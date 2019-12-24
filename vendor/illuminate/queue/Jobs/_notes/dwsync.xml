@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BeanstalkdJob.php" server="E:/wamp/www/upkeep_ftp/" local="132213883998222719" remote="132213883990000000" Dst="0" />
+<file name="DatabaseJob.php" server="E:/wamp/www/upkeep_ftp/" local="132213883998352807" remote="132213883990000000" Dst="0" />
+<file name="DatabaseJobRecord.php" server="E:/wamp/www/upkeep_ftp/" local="132213883998442842" remote="132213883990000000" Dst="0" />
+<file name="Job.php" server="E:/wamp/www/upkeep_ftp/" local="132213883998582958" remote="132213883990000000" Dst="0" />
+<file name="JobName.php" server="E:/wamp/www/upkeep_ftp/" local="132213883998683024" remote="132213883990000000" Dst="0" />
+<file name="RedisJob.php" server="E:/wamp/www/upkeep_ftp/" local="132213883998843104" remote="132213883990000000" Dst="0" />
+<file name="SqsJob.php" server="E:/wamp/www/upkeep_ftp/" local="132213883999003225" remote="132213883990000000" Dst="0" />
+<file name="SyncJob.php" server="E:/wamp/www/upkeep_ftp/" local="132213883999133321" remote="132213883990000000" Dst="0" />
+</dwsync>

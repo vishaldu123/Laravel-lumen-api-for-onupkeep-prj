@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BeanstalkdQueue.php" server="E:/wamp/www/upkeep_ftp/" local="132213883994170021" remote="132213883990000000" Dst="0" />
+<file name="CallQueuedClosure.php" server="E:/wamp/www/upkeep_ftp/" local="132213883994280081" remote="132213883990000000" Dst="0" />
+<file name="CallQueuedHandler.php" server="E:/wamp/www/upkeep_ftp/" local="132213883994410165" remote="132213883990000000" Dst="0" />
+<file name="composer.json" server="E:/wamp/www/upkeep_ftp/" local="132213884001394813" remote="132213884000000000" Dst="0" />
+<file name="DatabaseQueue.php" server="E:/wamp/www/upkeep_ftp/" local="132213883996891811" remote="132213883990000000" Dst="0" />
+<file name="InteractsWithQueue.php" server="E:/wamp/www/upkeep_ftp/" local="132213883997992545" remote="132213883990000000" Dst="0" />
+<file name="InvalidPayloadException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883998072621" remote="132213883990000000" Dst="0" />
+<file name="LICENSE.md" server="E:/wamp/www/upkeep_ftp/" local="132213883999143322" remote="132213883990000000" Dst="0" />
+<file name="Listener.php" server="E:/wamp/www/upkeep_ftp/" local="132213883999263386" remote="132213883990000000" Dst="0" />
+<file name="ListenerOptions.php" server="E:/wamp/www/upkeep_ftp/" local="132213883999353448" remote="132213883990000000" Dst="0" />
+<file name="LuaScripts.php" server="E:/wamp/www/upkeep_ftp/" local="132213883999463542" remote="132213883990000000" Dst="0" />
+<file name="ManuallyFailedException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883999533590" remote="132213883990000000" Dst="0" />
+<file name="MaxAttemptsExceededException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883999603635" remote="132213883990000000" Dst="0" />
+<file name="NullQueue.php" server="E:/wamp/www/upkeep_ftp/" local="132213883999713710" remote="132213883990000000" Dst="0" />
+<file name="Queue.php" server="E:/wamp/www/upkeep_ftp/" local="132213883999853802" remote="132213883990000000" Dst="0" />
+<file name="QueueManager.php" server="E:/wamp/www/upkeep_ftp/" local="132213883999983872" remote="132213883990000000" Dst="0" />
+<file name="QueueServiceProvider.php" server="E:/wamp/www/upkeep_ftp/" local="132213884000214038" remote="132213884000000000" Dst="0" />
+<file name="README.md" server="E:/wamp/www/upkeep_ftp/" local="132213884000284090" remote="132213884000000000" Dst="0" />
+<file name="RedisQueue.php" server="E:/wamp/www/upkeep_ftp/" local="132213884000474206" remote="132213884000000000" Dst="0" />
+<file name="SerializableClosure.php" server="E:/wamp/www/upkeep_ftp/" local="132213884000564249" remote="132213884000000000" Dst="0" />
+<file name="SerializesAndRestoresModelIdentifiers.php" server="E:/wamp/www/upkeep_ftp/" local="132213884000714350" remote="132213884000000000" Dst="0" />
+<file name="SerializesModels.php" server="E:/wamp/www/upkeep_ftp/" local="132213884000824448" remote="132213884000000000" Dst="0" />
+<file name="SqsQueue.php" server="E:/wamp/www/upkeep_ftp/" local="132213884001004564" remote="132213884000000000" Dst="0" />
+<file name="SyncQueue.php" server="E:/wamp/www/upkeep_ftp/" local="132213884001124647" remote="132213884000000000" Dst="0" />
+<file name="Worker.php" server="E:/wamp/www/upkeep_ftp/" local="132213884001254720" remote="132213884000000000" Dst="0" />
+<file name="WorkerOptions.php" server="E:/wamp/www/upkeep_ftp/" local="132213884001344793" remote="132213884000000000" Dst="0" />
+</dwsync>

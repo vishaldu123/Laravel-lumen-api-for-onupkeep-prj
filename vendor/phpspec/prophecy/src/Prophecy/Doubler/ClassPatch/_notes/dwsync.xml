@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClassPatchInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213884273336074" remote="132213884270000000" Dst="0" />
+<file name="DisableConstructorPatch.php" server="E:/wamp/www/upkeep_ftp/" local="132213884273476167" remote="132213884270000000" Dst="0" />
+<file name="HhvmExceptionPatch.php" server="E:/wamp/www/upkeep_ftp/" local="132213884273596262" remote="132213884270000000" Dst="0" />
+<file name="KeywordPatch.php" server="E:/wamp/www/upkeep_ftp/" local="132213884273706322" remote="132213884270000000" Dst="0" />
+<file name="MagicCallPatch.php" server="E:/wamp/www/upkeep_ftp/" local="132213884273816393" remote="132213884270000000" Dst="0" />
+<file name="ProphecySubjectPatch.php" server="E:/wamp/www/upkeep_ftp/" local="132213884273976510" remote="132213884270000000" Dst="0" />
+<file name="ReflectionClassNewInstancePatch.php" server="E:/wamp/www/upkeep_ftp/" local="132213884274106598" remote="132213884270000000" Dst="0" />
+<file name="SplFileInfoPatch.php" server="E:/wamp/www/upkeep_ftp/" local="132213884274266701" remote="132213884270000000" Dst="0" />
+<file name="ThrowablePatch.php" server="E:/wamp/www/upkeep_ftp/" local="132213884274416802" remote="132213884270000000" Dst="0" />
+<file name="TraversablePatch.php" server="E:/wamp/www/upkeep_ftp/" local="132213884274556884" remote="132213884270000000" Dst="0" />
+</dwsync>

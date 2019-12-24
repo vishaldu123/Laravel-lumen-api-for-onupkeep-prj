@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractVersionConstraint.php" server="E:/wamp/www/upkeep_ftp/" local="132213884285366169" remote="132213884280000000" Dst="0" />
+<file name="AndVersionConstraintGroup.php" server="E:/wamp/www/upkeep_ftp/" local="132213884285496257" remote="132213884280000000" Dst="0" />
+<file name="AnyVersionConstraint.php" server="E:/wamp/www/upkeep_ftp/" local="132213884285606343" remote="132213884280000000" Dst="0" />
+<file name="ExactVersionConstraint.php" server="E:/wamp/www/upkeep_ftp/" local="132213884285706398" remote="132213884280000000" Dst="0" />
+<file name="GreaterThanOrEqualToVersionConstraint.php" server="E:/wamp/www/upkeep_ftp/" local="132213884285806465" remote="132213884280000000" Dst="0" />
+<file name="OrVersionConstraintGroup.php" server="E:/wamp/www/upkeep_ftp/" local="132213884285916540" remote="132213884280000000" Dst="0" />
+<file name="SpecificMajorAndMinorVersionConstraint.php" server="E:/wamp/www/upkeep_ftp/" local="132213884286026611" remote="132213884280000000" Dst="0" />
+<file name="SpecificMajorVersionConstraint.php" server="E:/wamp/www/upkeep_ftp/" local="132213884286136686" remote="132213884280000000" Dst="0" />
+<file name="VersionConstraint.php" server="E:/wamp/www/upkeep_ftp/" local="132213884286216750" remote="132213884280000000" Dst="0" />
+</dwsync>

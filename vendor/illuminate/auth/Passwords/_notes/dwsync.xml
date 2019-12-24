@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CanResetPassword.php" server="E:/wamp/www/upkeep_ftp/" local="132213884047351592" remote="132213884040000000" Dst="0" />
+<file name="DatabaseTokenRepository.php" server="E:/wamp/www/upkeep_ftp/" local="132213884047551751" remote="132213884040000000" Dst="0" />
+<file name="PasswordBroker.php" server="E:/wamp/www/upkeep_ftp/" local="132213884047681809" remote="132213884040000000" Dst="0" />
+<file name="PasswordBrokerManager.php" server="E:/wamp/www/upkeep_ftp/" local="132213884047811897" remote="132213884040000000" Dst="0" />
+<file name="PasswordResetServiceProvider.php" server="E:/wamp/www/upkeep_ftp/" local="132213884047932004" remote="132213884040000000" Dst="0" />
+<file name="TokenRepositoryInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213884048032043" remote="132213884040000000" Dst="0" />
+</dwsync>

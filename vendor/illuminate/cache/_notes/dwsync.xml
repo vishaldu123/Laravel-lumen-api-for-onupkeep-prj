@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ApcStore.php" server="E:/wamp/www/upkeep_ftp/" local="132213884028917447" remote="132213884020000000" Dst="0" />
+<file name="ApcWrapper.php" server="E:/wamp/www/upkeep_ftp/" local="132213884029067534" remote="132213884020000000" Dst="0" />
+<file name="ArrayLock.php" server="E:/wamp/www/upkeep_ftp/" local="132213884029217643" remote="132213884020000000" Dst="0" />
+<file name="ArrayStore.php" server="E:/wamp/www/upkeep_ftp/" local="132213884029397762" remote="132213884020000000" Dst="0" />
+<file name="CacheManager.php" server="E:/wamp/www/upkeep_ftp/" local="132213884029537855" remote="132213884020000000" Dst="0" />
+<file name="CacheServiceProvider.php" server="E:/wamp/www/upkeep_ftp/" local="132213884029667932" remote="132213884020000000" Dst="0" />
+<file name="composer.json" server="E:/wamp/www/upkeep_ftp/" local="132213884033080220" remote="132213884030000000" Dst="0" />
+<file name="DatabaseStore.php" server="E:/wamp/www/upkeep_ftp/" local="132213884030328370" remote="132213884030000000" Dst="0" />
+<file name="DynamoDbLock.php" server="E:/wamp/www/upkeep_ftp/" local="132213884030448449" remote="132213884030000000" Dst="0" />
+<file name="DynamoDbStore.php" server="E:/wamp/www/upkeep_ftp/" local="132213884030578545" remote="132213884030000000" Dst="0" />
+<file name="FileStore.php" server="E:/wamp/www/upkeep_ftp/" local="132213884031158930" remote="132213884030000000" Dst="0" />
+<file name="LICENSE.md" server="E:/wamp/www/upkeep_ftp/" local="132213884031168924" remote="132213884030000000" Dst="0" />
+<file name="Lock.php" server="E:/wamp/www/upkeep_ftp/" local="132213884031289018" remote="132213884030000000" Dst="0" />
+<file name="LuaScripts.php" server="E:/wamp/www/upkeep_ftp/" local="132213884031369060" remote="132213884030000000" Dst="0" />
+<file name="MemcachedConnector.php" server="E:/wamp/www/upkeep_ftp/" local="132213884031479158" remote="132213884030000000" Dst="0" />
+<file name="MemcachedLock.php" server="E:/wamp/www/upkeep_ftp/" local="132213884031609219" remote="132213884030000000" Dst="0" />
+<file name="MemcachedStore.php" server="E:/wamp/www/upkeep_ftp/" local="132213884031739304" remote="132213884030000000" Dst="0" />
+<file name="NullStore.php" server="E:/wamp/www/upkeep_ftp/" local="132213884031849390" remote="132213884030000000" Dst="0" />
+<file name="RateLimiter.php" server="E:/wamp/www/upkeep_ftp/" local="132213884031959465" remote="132213884030000000" Dst="0" />
+<file name="RedisLock.php" server="E:/wamp/www/upkeep_ftp/" local="132213884032099543" remote="132213884030000000" Dst="0" />
+<file name="RedisStore.php" server="E:/wamp/www/upkeep_ftp/" local="132213884032239647" remote="132213884030000000" Dst="0" />
+<file name="RedisTaggedCache.php" server="E:/wamp/www/upkeep_ftp/" local="132213884032399742" remote="132213884030000000" Dst="0" />
+<file name="Repository.php" server="E:/wamp/www/upkeep_ftp/" local="132213884032549847" remote="132213884030000000" Dst="0" />
+<file name="RetrievesMultipleKeys.php" server="E:/wamp/www/upkeep_ftp/" local="132213884032639928" remote="132213884030000000" Dst="0" />
+<file name="TaggableStore.php" server="E:/wamp/www/upkeep_ftp/" local="132213884032880060" remote="132213884030000000" Dst="0" />
+<file name="TaggedCache.php" server="E:/wamp/www/upkeep_ftp/" local="132213884033030162" remote="132213884030000000" Dst="0" />
+<file name="TagSet.php" server="E:/wamp/www/upkeep_ftp/" local="132213884032790025" remote="132213884030000000" Dst="0" />
+</dwsync>

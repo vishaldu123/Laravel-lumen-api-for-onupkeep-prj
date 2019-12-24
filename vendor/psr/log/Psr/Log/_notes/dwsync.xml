@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogger.php" server="E:/wamp/www/upkeep_ftp/" local="132213883611725817" remote="132213883610000000" Dst="0" />
+<file name="InvalidArgumentException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883611825883" remote="132213883610000000" Dst="0" />
+<file name="LoggerAwareInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883611985997" remote="132213883610000000" Dst="0" />
+<file name="LoggerAwareTrait.php" server="E:/wamp/www/upkeep_ftp/" local="132213883612066039" remote="132213883610000000" Dst="0" />
+<file name="LoggerInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883612206132" remote="132213883610000000" Dst="0" />
+<file name="LoggerTrait.php" server="E:/wamp/www/upkeep_ftp/" local="132213883612326223" remote="132213883610000000" Dst="0" />
+<file name="LogLevel.php" server="E:/wamp/www/upkeep_ftp/" local="132213883611915941" remote="132213883610000000" Dst="0" />
+<file name="NullLogger.php" server="E:/wamp/www/upkeep_ftp/" local="132213883612426289" remote="132213883610000000" Dst="0" />
+</dwsync>

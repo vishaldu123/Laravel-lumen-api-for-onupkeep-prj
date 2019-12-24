@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CustomFilterIterator.php" server="E:/wamp/www/upkeep_ftp/" local="132213883864019642" remote="132213883860000000" Dst="0" />
+<file name="DateRangeFilterIterator.php" server="E:/wamp/www/upkeep_ftp/" local="132213883864139692" remote="132213883860000000" Dst="0" />
+<file name="DepthRangeFilterIterator.php" server="E:/wamp/www/upkeep_ftp/" local="132213883864259775" remote="132213883860000000" Dst="0" />
+<file name="ExcludeDirectoryFilterIterator.php" server="E:/wamp/www/upkeep_ftp/" local="132213883864359853" remote="132213883860000000" Dst="0" />
+<file name="FilecontentFilterIterator.php" server="E:/wamp/www/upkeep_ftp/" local="132213883864579995" remote="132213883860000000" Dst="0" />
+<file name="FilenameFilterIterator.php" server="E:/wamp/www/upkeep_ftp/" local="132213883864700075" remote="132213883860000000" Dst="0" />
+<file name="FileTypeFilterIterator.php" server="E:/wamp/www/upkeep_ftp/" local="132213883864459904" remote="132213883860000000" Dst="0" />
+<file name="MultiplePcreFilterIterator.php" server="E:/wamp/www/upkeep_ftp/" local="132213883864810138" remote="132213883860000000" Dst="0" />
+<file name="PathFilterIterator.php" server="E:/wamp/www/upkeep_ftp/" local="132213883864930244" remote="132213883860000000" Dst="0" />
+<file name="RecursiveDirectoryIterator.php" server="E:/wamp/www/upkeep_ftp/" local="132213883865100340" remote="132213883860000000" Dst="0" />
+<file name="SizeRangeFilterIterator.php" server="E:/wamp/www/upkeep_ftp/" local="132213883865230413" remote="132213883860000000" Dst="0" />
+<file name="SortableIterator.php" server="E:/wamp/www/upkeep_ftp/" local="132213883865380515" remote="132213883860000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayHasKeyTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884399239743" remote="132213884390000000" Dst="0" />
+<file name="ArraySubsetTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884399379847" remote="132213884390000000" Dst="0" />
+<file name="CallbackTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884399529949" remote="132213884390000000" Dst="0" />
+<file name="ClassHasAttributeTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884399660022" remote="132213884390000000" Dst="0" />
+<file name="ClassHasStaticAttributeTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884399790121" remote="132213884390000000" Dst="0" />
+<file name="ConstraintTestCase.php" server="E:/wamp/www/upkeep_ftp/" local="132213884399920221" remote="132213884390000000" Dst="0" />
+<file name="CountTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884400090316" remote="132213884400000000" Dst="0" />
+<file name="DirectoryExistsTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884400230425" remote="132213884400000000" Dst="0" />
+<file name="ExceptionCodeTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884400350504" remote="132213884400000000" Dst="0" />
+<file name="ExceptionMessageRegExpTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884400480592" remote="132213884400000000" Dst="0" />
+<file name="ExceptionMessageTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884400610677" remote="132213884400000000" Dst="0" />
+<file name="ExceptionTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884400720725" remote="132213884400000000" Dst="0" />
+<file name="FileExistsTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884400840805" remote="132213884400000000" Dst="0" />
+<file name="GreaterThanTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884400970916" remote="132213884400000000" Dst="0" />
+<file name="IsEmptyTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884401101000" remote="132213884400000000" Dst="0" />
+<file name="IsEqualTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884401271088" remote="132213884400000000" Dst="0" />
+<file name="IsIdenticalTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884401431225" remote="132213884400000000" Dst="0" />
+<file name="IsInstanceOfTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884401561305" remote="132213884400000000" Dst="0" />
+<file name="IsJsonTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884401691394" remote="132213884400000000" Dst="0" />
+<file name="IsNullTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884401811447" remote="132213884400000000" Dst="0" />
+<file name="IsReadableTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884401931526" remote="132213884400000000" Dst="0" />
+<file name="IsTypeTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884402121662" remote="132213884400000000" Dst="0" />
+<file name="IsWritableTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884402231737" remote="132213884400000000" Dst="0" />
+<file name="JsonMatchesErrorMessageProviderTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884402351816" remote="132213884400000000" Dst="0" />
+<file name="JsonMatchesTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884402511938" remote="132213884400000000" Dst="0" />
+<file name="LessThanTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884402642022" remote="132213884400000000" Dst="0" />
+<file name="LogicalAndTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884402832150" remote="132213884400000000" Dst="0" />
+<file name="LogicalNotTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884402942198" remote="132213884400000000" Dst="0" />
+<file name="LogicalOrTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884403122341" remote="132213884400000000" Dst="0" />
+<file name="LogicalXorTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884403252429" remote="132213884400000000" Dst="0" />
+<file name="ObjectHasAttributeTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884403382490" remote="132213884400000000" Dst="0" />
+<file name="RegularExpressionTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884403512601" remote="132213884400000000" Dst="0" />
+<file name="SameSizeTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884403652668" remote="132213884400000000" Dst="0" />
+<file name="StringContainsTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884403802796" remote="132213884400000000" Dst="0" />
+<file name="StringEndsWithTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884403962875" remote="132213884400000000" Dst="0" />
+<file name="StringMatchesFormatDescriptionTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884404163008" remote="132213884400000000" Dst="0" />
+<file name="StringStartsWithTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884404333146" remote="132213884400000000" Dst="0" />
+<file name="TraversableContainsTest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884404523270" remote="132213884400000000" Dst="0" />
+</dwsync>

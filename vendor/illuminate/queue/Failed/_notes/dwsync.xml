@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DatabaseFailedJobProvider.php" server="E:/wamp/www/upkeep_ftp/" local="132213883997532240" remote="132213883990000000" Dst="0" />
+<file name="DynamoDbFailedJobProvider.php" server="E:/wamp/www/upkeep_ftp/" local="132213883997662351" remote="132213883990000000" Dst="0" />
+<file name="FailedJobProviderInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883997762413" remote="132213883990000000" Dst="0" />
+<file name="NullFailedJobProvider.php" server="E:/wamp/www/upkeep_ftp/" local="132213883997872473" remote="132213883990000000" Dst="0" />
+</dwsync>

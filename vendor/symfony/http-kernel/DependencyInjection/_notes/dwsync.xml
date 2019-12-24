@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AddAnnotatedClassesToCachePass.php" server="E:/wamp/www/upkeep_ftp/" local="132213883678388588" remote="132213883670000000" Dst="0" />
+<file name="ConfigurableExtension.php" server="E:/wamp/www/upkeep_ftp/" local="132213883678488654" remote="132213883670000000" Dst="0" />
+<file name="ControllerArgumentValueResolverPass.php" server="E:/wamp/www/upkeep_ftp/" local="132213883678588751" remote="132213883670000000" Dst="0" />
+<file name="Extension.php" server="E:/wamp/www/upkeep_ftp/" local="132213883678698795" remote="132213883670000000" Dst="0" />
+<file name="FragmentRendererPass.php" server="E:/wamp/www/upkeep_ftp/" local="132213883678798873" remote="132213883670000000" Dst="0" />
+<file name="LazyLoadingFragmentHandler.php" server="E:/wamp/www/upkeep_ftp/" local="132213883678918937" remote="132213883670000000" Dst="0" />
+<file name="LoggerPass.php" server="E:/wamp/www/upkeep_ftp/" local="132213883679029009" remote="132213883670000000" Dst="0" />
+<file name="MergeExtensionConfigurationPass.php" server="E:/wamp/www/upkeep_ftp/" local="132213883679119074" remote="132213883670000000" Dst="0" />
+<file name="RegisterControllerArgumentLocatorsPass.php" server="E:/wamp/www/upkeep_ftp/" local="132213883679229145" remote="132213883670000000" Dst="0" />
+<file name="RegisterLocaleAwareServicesPass.php" server="E:/wamp/www/upkeep_ftp/" local="132213883679349225" remote="132213883670000000" Dst="0" />
+<file name="RemoveEmptyControllerArgumentLocatorsPass.php" server="E:/wamp/www/upkeep_ftp/" local="132213883679459296" remote="132213883670000000" Dst="0" />
+<file name="ResettableServicePass.php" server="E:/wamp/www/upkeep_ftp/" local="132213883679549357" remote="132213883670000000" Dst="0" />
+<file name="ServicesResetter.php" server="E:/wamp/www/upkeep_ftp/" local="132213883679649424" remote="132213883670000000" Dst="0" />
+</dwsync>

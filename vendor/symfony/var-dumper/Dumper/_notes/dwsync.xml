@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractDumper.php" server="E:/wamp/www/upkeep_ftp/" local="132213883568385592" remote="132213883560000000" Dst="0" />
+<file name="CliDumper.php" server="E:/wamp/www/upkeep_ftp/" local="132213883568515680" remote="132213883560000000" Dst="0" />
+<file name="ContextualizedDumper.php" server="E:/wamp/www/upkeep_ftp/" local="132213883569106062" remote="132213883560000000" Dst="0" />
+<file name="DataDumperInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883569186116" remote="132213883560000000" Dst="0" />
+<file name="HtmlDumper.php" server="E:/wamp/www/upkeep_ftp/" local="132213883569316211" remote="132213883560000000" Dst="0" />
+<file name="ServerDumper.php" server="E:/wamp/www/upkeep_ftp/" local="132213883569436283" remote="132213883560000000" Dst="0" />
+</dwsync>

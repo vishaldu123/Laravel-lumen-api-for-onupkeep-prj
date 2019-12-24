@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AfterIncompleteTestHook.php" server="E:/wamp/www/upkeep_ftp/" local="132213884330653212" remote="132213884330000000" Dst="0" />
+<file name="AfterLastTestHook.php" server="E:/wamp/www/upkeep_ftp/" local="132213884330733261" remote="132213884330000000" Dst="0" />
+<file name="AfterRiskyTestHook.php" server="E:/wamp/www/upkeep_ftp/" local="132213884330823323" remote="132213884330000000" Dst="0" />
+<file name="AfterSkippedTestHook.php" server="E:/wamp/www/upkeep_ftp/" local="132213884330913358" remote="132213884330000000" Dst="0" />
+<file name="AfterSuccessfulTestHook.php" server="E:/wamp/www/upkeep_ftp/" local="132213884330993438" remote="132213884330000000" Dst="0" />
+<file name="AfterTestErrorHook.php" server="E:/wamp/www/upkeep_ftp/" local="132213884331083496" remote="132213884330000000" Dst="0" />
+<file name="AfterTestFailureHook.php" server="E:/wamp/www/upkeep_ftp/" local="132213884331173557" remote="132213884330000000" Dst="0" />
+<file name="AfterTestHook.php" server="E:/wamp/www/upkeep_ftp/" local="132213884331263604" remote="132213884330000000" Dst="0" />
+<file name="AfterTestWarningHook.php" server="E:/wamp/www/upkeep_ftp/" local="132213884331343668" remote="132213884330000000" Dst="0" />
+<file name="BeforeFirstTestHook.php" server="E:/wamp/www/upkeep_ftp/" local="132213884331433749" remote="132213884330000000" Dst="0" />
+<file name="BeforeTestHook.php" server="E:/wamp/www/upkeep_ftp/" local="132213884331513783" remote="132213884330000000" Dst="0" />
+<file name="Hook.php" server="E:/wamp/www/upkeep_ftp/" local="132213884331593832" remote="132213884330000000" Dst="0" />
+<file name="TestHook.php" server="E:/wamp/www/upkeep_ftp/" local="132213884331663880" remote="132213884330000000" Dst="0" />
+<file name="TestListenerAdapter.php" server="E:/wamp/www/upkeep_ftp/" local="132213884331864013" remote="132213884330000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="cache-result.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884366236809" remote="132213884360000000" Dst="0" />
+<file name="defects-first-order-via-cli.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884366326871" remote="132213884360000000" Dst="0" />
+<file name="dependencies-clone.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884366406897" remote="132213884360000000" Dst="0" />
+<file name="dependencies-isolation.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884366496959" remote="132213884360000000" Dst="0" />
+<file name="depends-as-parameter-with-isolation.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884366587043" remote="132213884360000000" Dst="0" />
+<file name="depends-as-parameter.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884366667096" remote="132213884360000000" Dst="0" />
+<file name="depends-multiple-parameter-with-isolation.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884366747149" remote="132213884360000000" Dst="0" />
+<file name="depends-multiple-parameters.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884366827202" remote="132213884360000000" Dst="0" />
+<file name="execution-order-options-via-config.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884366917264" remote="132213884360000000" Dst="0" />
+<file name="order-by-default-invalid-via-cli.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884366997302" remote="132213884360000000" Dst="0" />
+<file name="order-by-duration-via-cli.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884367077355" remote="132213884360000000" Dst="0" />
+<file name="order-by-duration-via-phpunit-xml.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884367157408" remote="132213884360000000" Dst="0" />
+<file name="repeat.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884367237461" remote="132213884360000000" Dst="0" />
+<file name="stop-on-defect-via-cli.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884367317511" remote="132213884360000000" Dst="0" />
+<file name="stop-on-defect-via-config.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884367407572" remote="132213884360000000" Dst="0" />
+<file name="stop-on-error-via-cli.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884367497630" remote="132213884360000000" Dst="0" />
+<file name="stop-on-error-via-config.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884367577683" remote="132213884360000000" Dst="0" />
+<file name="stop-on-incomplete-via-cli.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884367657736" remote="132213884360000000" Dst="0" />
+<file name="stop-on-incomplete-via-config.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884367751458" remote="132213884360000000" Dst="0" />
+<file name="stop-on-warning-via-cli.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884367836514" remote="132213884360000000" Dst="0" />
+<file name="stop-on-warning-via-config.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884367921581" remote="132213884360000000" Dst="0" />
+<file name="test-order-randomized-seed-with-dependency-resolution.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884368006636" remote="132213884360000000" Dst="0" />
+<file name="test-order-randomized-with-dependency-resolution.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884368096686" remote="132213884360000000" Dst="0" />
+<file name="test-order-reversed-with-dependency-resolution.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884368186744" remote="132213884360000000" Dst="0" />
+<file name="test-order-reversed-without-dependency-resolution.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884368281820" remote="132213884360000000" Dst="0" />
+<file name="test-order-size-with-dependency-resolution.phpt" server="E:/wamp/www/upkeep_ftp/" local="132213884368381886" remote="132213884360000000" Dst="0" />
+</dwsync>

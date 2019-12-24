@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".scrutinizer.yml" server="E:/wamp/www/upkeep_ftp/" local="132213884234300353" remote="132213884230000000" Dst="0" />
+<file name=".travis.yml" server="E:/wamp/www/upkeep_ftp/" local="132213884234350376" remote="132213884230000000" Dst="0" />
+<file name="appveyor.yml" server="E:/wamp/www/upkeep_ftp/" local="132213884234530488" remote="132213884230000000" Dst="0" />
+<file name="composer.json" server="E:/wamp/www/upkeep_ftp/" local="132213884234590524" remote="132213884230000000" Dst="0" />
+<file name="easy-coding-standard.neon" server="E:/wamp/www/upkeep_ftp/" local="132213884234640556" remote="132213884230000000" Dst="0" />
+<file name="LICENSE" server="E:/wamp/www/upkeep_ftp/" local="132213884234410428" remote="132213884230000000" Dst="0" />
+<file name="phive.xml" server="E:/wamp/www/upkeep_ftp/" local="132213884234690595" remote="132213884230000000" Dst="0" />
+<file name="phpmd.xml.dist" server="E:/wamp/www/upkeep_ftp/" local="132213884234740622" remote="132213884230000000" Dst="0" />
+<file name="phpstan.neon" server="E:/wamp/www/upkeep_ftp/" local="132213884234740622" remote="132213884230000000" Dst="0" />
+<file name="README.md" server="E:/wamp/www/upkeep_ftp/" local="132213884234470456" remote="132213884230000000" Dst="0" />
+</dwsync>

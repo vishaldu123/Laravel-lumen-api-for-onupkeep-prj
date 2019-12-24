@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AjaxDataCollector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883676057054" remote="132213883670000000" Dst="0" />
+<file name="ConfigDataCollector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883676257187" remote="132213883670000000" Dst="0" />
+<file name="DataCollector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883676387260" remote="132213883670000000" Dst="0" />
+<file name="DataCollectorInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883676477345" remote="132213883670000000" Dst="0" />
+<file name="DumpDataCollector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883676667446" remote="132213883670000000" Dst="0" />
+<file name="EventDataCollector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883676857570" remote="132213883670000000" Dst="0" />
+<file name="ExceptionDataCollector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883677017676" remote="132213883670000000" Dst="0" />
+<file name="LateDataCollectorInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883677097733" remote="132213883670000000" Dst="0" />
+<file name="LoggerDataCollector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883677227818" remote="132213883670000000" Dst="0" />
+<file name="MemoryDataCollector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883677397944" remote="132213883670000000" Dst="0" />
+<file name="RequestDataCollector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883677628095" remote="132213883670000000" Dst="0" />
+<file name="RouterDataCollector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883677798198" remote="132213883670000000" Dst="0" />
+<file name="TimeDataCollector.php" server="E:/wamp/www/upkeep_ftp/" local="132213883677938314" remote="132213883670000000" Dst="0" />
+</dwsync>

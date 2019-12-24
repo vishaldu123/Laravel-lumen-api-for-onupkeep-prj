@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ControllerArgumentsEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883679729477" remote="132213883670000000" Dst="0" />
+<file name="ControllerEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883679809526" remote="132213883670000000" Dst="0" />
+<file name="ExceptionEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883679889579" remote="132213883670000000" Dst="0" />
+<file name="FilterControllerArgumentsEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883680009674" remote="132213883680000000" Dst="0" />
+<file name="FilterControllerEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883680129758" remote="132213883680000000" Dst="0" />
+<file name="FilterResponseEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883680249833" remote="132213883680000000" Dst="0" />
+<file name="FinishRequestEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883680329890" remote="132213883680000000" Dst="0" />
+<file name="GetResponseEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883680459986" remote="132213883680000000" Dst="0" />
+<file name="GetResponseForControllerResultEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883680590074" remote="132213883680000000" Dst="0" />
+<file name="GetResponseForExceptionEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883680740149" remote="132213883680000000" Dst="0" />
+<file name="KernelEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883680880250" remote="132213883680000000" Dst="0" />
+<file name="PostResponseEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883681000329" remote="132213883680000000" Dst="0" />
+<file name="RequestEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883681080390" remote="132213883680000000" Dst="0" />
+<file name="ResponseEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883681160424" remote="132213883680000000" Dst="0" />
+<file name="TerminateEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883681250486" remote="132213883680000000" Dst="0" />
+<file name="ViewEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213883681330550" remote="132213883680000000" Dst="0" />
+</dwsync>

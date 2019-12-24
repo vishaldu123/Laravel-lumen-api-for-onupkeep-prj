@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Application.php" server="E:/wamp/www/upkeep_ftp/" local="132213884292417721" remote="132213884290000000" Dst="0" />
+<file name="ApplicationName.php" server="E:/wamp/www/upkeep_ftp/" local="132213884292557814" remote="132213884290000000" Dst="0" />
+<file name="Author.php" server="E:/wamp/www/upkeep_ftp/" local="132213884292687899" remote="132213884290000000" Dst="0" />
+<file name="AuthorCollection.php" server="E:/wamp/www/upkeep_ftp/" local="132213884292807978" remote="132213884290000000" Dst="0" />
+<file name="AuthorCollectionIterator.php" server="E:/wamp/www/upkeep_ftp/" local="132213884292938067" remote="132213884290000000" Dst="0" />
+<file name="BundledComponent.php" server="E:/wamp/www/upkeep_ftp/" local="132213884293048130" remote="132213884290000000" Dst="0" />
+<file name="BundledComponentCollection.php" server="E:/wamp/www/upkeep_ftp/" local="132213884293168217" remote="132213884290000000" Dst="0" />
+<file name="BundledComponentCollectionIterator.php" server="E:/wamp/www/upkeep_ftp/" local="132213884293298305" remote="132213884290000000" Dst="0" />
+<file name="CopyrightInformation.php" server="E:/wamp/www/upkeep_ftp/" local="132213884293418397" remote="132213884290000000" Dst="0" />
+<file name="Email.php" server="E:/wamp/www/upkeep_ftp/" local="132213884293538465" remote="132213884290000000" Dst="0" />
+<file name="Extension.php" server="E:/wamp/www/upkeep_ftp/" local="132213884293678558" remote="132213884290000000" Dst="0" />
+<file name="Library.php" server="E:/wamp/www/upkeep_ftp/" local="132213884293778613" remote="132213884290000000" Dst="0" />
+<file name="License.php" server="E:/wamp/www/upkeep_ftp/" local="132213884293888699" remote="132213884290000000" Dst="0" />
+<file name="Manifest.php" server="E:/wamp/www/upkeep_ftp/" local="132213884294048805" remote="132213884290000000" Dst="0" />
+<file name="PhpExtensionRequirement.php" server="E:/wamp/www/upkeep_ftp/" local="132213884294158891" remote="132213884290000000" Dst="0" />
+<file name="PhpVersionRequirement.php" server="E:/wamp/www/upkeep_ftp/" local="132213884294268963" remote="132213884290000000" Dst="0" />
+<file name="Requirement.php" server="E:/wamp/www/upkeep_ftp/" local="132213884294339011" remote="132213884290000000" Dst="0" />
+<file name="RequirementCollection.php" server="E:/wamp/www/upkeep_ftp/" local="132213884294459091" remote="132213884290000000" Dst="0" />
+<file name="RequirementCollectionIterator.php" server="E:/wamp/www/upkeep_ftp/" local="132213884294589164" remote="132213884290000000" Dst="0" />
+<file name="Type.php" server="E:/wamp/www/upkeep_ftp/" local="132213884294719259" remote="132213884290000000" Dst="0" />
+<file name="Url.php" server="E:/wamp/www/upkeep_ftp/" local="132213884294829334" remote="132213884290000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BroadcastController.php" server="E:/wamp/www/upkeep_ftp/" local="132213884039100406" remote="132213884030000000" Dst="0" />
+<file name="BroadcastEvent.php" server="E:/wamp/www/upkeep_ftp/" local="132213884039210470" remote="132213884030000000" Dst="0" />
+<file name="BroadcastException.php" server="E:/wamp/www/upkeep_ftp/" local="132213884039280518" remote="132213884030000000" Dst="0" />
+<file name="BroadcastManager.php" server="E:/wamp/www/upkeep_ftp/" local="132213884039420619" remote="132213884030000000" Dst="0" />
+<file name="BroadcastServiceProvider.php" server="E:/wamp/www/upkeep_ftp/" local="132213884039550707" remote="132213884030000000" Dst="0" />
+<file name="Channel.php" server="E:/wamp/www/upkeep_ftp/" local="132213884040341229" remote="132213884040000000" Dst="0" />
+<file name="composer.json" server="E:/wamp/www/upkeep_ftp/" local="132213884040761504" remote="132213884040000000" Dst="0" />
+<file name="InteractsWithSockets.php" server="E:/wamp/www/upkeep_ftp/" local="132213884040441296" remote="132213884040000000" Dst="0" />
+<file name="LICENSE.md" server="E:/wamp/www/upkeep_ftp/" local="132213884040451304" remote="132213884040000000" Dst="0" />
+<file name="PendingBroadcast.php" server="E:/wamp/www/upkeep_ftp/" local="132213884040561375" remote="132213884040000000" Dst="0" />
+<file name="PresenceChannel.php" server="E:/wamp/www/upkeep_ftp/" local="132213884040641428" remote="132213884040000000" Dst="0" />
+<file name="PrivateChannel.php" server="E:/wamp/www/upkeep_ftp/" local="132213884040711473" remote="132213884040000000" Dst="0" />
+</dwsync>

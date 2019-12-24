@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AddressEncoderInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883577643843" remote="132213883570000000" Dst="0" />
+<file name="Base64ContentEncoder.php" server="E:/wamp/www/upkeep_ftp/" local="132213883577773942" remote="132213883570000000" Dst="0" />
+<file name="Base64Encoder.php" server="E:/wamp/www/upkeep_ftp/" local="132213883577884014" remote="132213883570000000" Dst="0" />
+<file name="Base64MimeHeaderEncoder.php" server="E:/wamp/www/upkeep_ftp/" local="132213883578004093" remote="132213883570000000" Dst="0" />
+<file name="ContentEncoderInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883578094151" remote="132213883570000000" Dst="0" />
+<file name="EightBitContentEncoder.php" server="E:/wamp/www/upkeep_ftp/" local="132213883578214234" remote="132213883570000000" Dst="0" />
+<file name="EncoderInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883578294284" remote="132213883570000000" Dst="0" />
+<file name="IdnAddressEncoder.php" server="E:/wamp/www/upkeep_ftp/" local="132213883578414363" remote="132213883570000000" Dst="0" />
+<file name="MimeHeaderEncoderInterface.php" server="E:/wamp/www/upkeep_ftp/" local="132213883578494417" remote="132213883570000000" Dst="0" />
+<file name="QpContentEncoder.php" server="E:/wamp/www/upkeep_ftp/" local="132213883578634502" remote="132213883570000000" Dst="0" />
+<file name="QpEncoder.php" server="E:/wamp/www/upkeep_ftp/" local="132213883578814629" remote="132213883570000000" Dst="0" />
+<file name="QpMimeHeaderEncoder.php" server="E:/wamp/www/upkeep_ftp/" local="132213883578924704" remote="132213883570000000" Dst="0" />
+<file name="Rfc2231Encoder.php" server="E:/wamp/www/upkeep_ftp/" local="132213883579044783" remote="132213883570000000" Dst="0" />
+</dwsync>

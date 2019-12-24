@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="EntityNotFoundException.php" server="E:/wamp/www/upkeep_ftp/" local="132213883837595055" remote="132213883830000000" Dst="0" />
+<file name="EntityResolver.php" server="E:/wamp/www/upkeep_ftp/" local="132213883837665103" remote="132213883830000000" Dst="0" />
+<file name="Factory.php" server="E:/wamp/www/upkeep_ftp/" local="132213883837745167" remote="132213883830000000" Dst="0" />
+<file name="Job.php" server="E:/wamp/www/upkeep_ftp/" local="132213883837885249" remote="132213883830000000" Dst="0" />
+<file name="Monitor.php" server="E:/wamp/www/upkeep_ftp/" local="132213883837995331" remote="132213883830000000" Dst="0" />
+<file name="Queue.php" server="E:/wamp/www/upkeep_ftp/" local="132213883838115426" remote="132213883830000000" Dst="0" />
+<file name="QueueableCollection.php" server="E:/wamp/www/upkeep_ftp/" local="132213883838205461" remote="132213883830000000" Dst="0" />
+<file name="QueueableEntity.php" server="E:/wamp/www/upkeep_ftp/" local="132213883838295519" remote="132213883830000000" Dst="0" />
+<file name="ShouldQueue.php" server="E:/wamp/www/upkeep_ftp/" local="132213883838385581" remote="132213883830000000" Dst="0" />
+</dwsync>
